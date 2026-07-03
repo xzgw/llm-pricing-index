@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "llm-pricing-index prices.json",
+  "description": "Official per-vendor LLM API pricing, USD per 1M tokens. Root file always holds the current confirmed values only — historical changes are tracked via git log, not a history array.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "required": ["model", "vendor", "input_price_usd", "output_price_usd", "source_url", "last_verified"],
+    "additionalProperties": false,
+    "properties": {
+      "model": {
+        "type": "string",
+        "description": "Model identifier, lowercase-hyphenated (e.g. \"glm-4.7\", \"gpt-5.4\").",
+        "minLength": 1
+      },
+      "vendor": {
+        "type": "string",
+        "description": "Vendor/provider name (e.g. \"openai\", \"anthropic\", \"google\", \"z.ai\")."
+      },
+      "input_price_usd": {
+        "type": "number",
+        "minimum": 0,
+        "description": "Input token price, USD per 1M tokens."
+      },
+      "output_price_usd": {
+        "type": "number",
+        "minimum": 0,
+        "description": "Output token price, USD per 1M tokens."
+      },
+      "cache_read_price_usd": {
+        "type": ["number", "null"],
+        "minimum": 0,
+        "description": "Cached/context-hit input price, USD per 1M tokens. Omit or null if the vendor doesn't publish a distinct cache-read rate for this model."
+      },
+      "cache_write_price_usd": {
+        "type": ["number", "null"],
+        "minimum": 0,
+        "description": "Cache write/creation price, USD per 1M tokens. Omit or null if the vendor doesn't publish a distinct cache-write rate for this model."
+      },
+      "source_url": {
+        "type": "string",
+        "format": "uri",
+        "description": "The official vendor pricing page this entry was verified against."
+      },
+      "last_verified": {
+        "type": "string",
+        "format": "date",
+        "description": "ISO 8601 date this entry was last confirmed against source_url."
+      }
+    }
+  }
+}

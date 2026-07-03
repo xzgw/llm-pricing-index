@@ -1,0 +1,56 @@
+name: Update prices.json
+
+on:
+  schedule:
+    # Every Monday at 06:00 UTC.
+    - cron: "0 6 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  scrape-and-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests (sanity/merge logic)
+        run: python3 -m pytest tests/ -v
+
+      - name: Run scrapers and update prices.json
+        id: scrape
+        run: python3 run.py | tee /tmp/scrape-summary.txt
+
+      - name: Read change summary
+        id: summary
+        run: |
+          {
+            echo 'body<<EOF'
+            cat /tmp/scrape-summary.txt
+            echo 'EOF'
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Open pull request
+        if: steps.scrape.outputs.has_changes == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: "chore: weekly price sync"
+          title: "Weekly price sync — ${{ github.run_id }}"
+          body: |
+            Automated weekly pricing scrape. **Review the diff before merging** —
+            this repo does not auto-merge price changes.
+
+            ```
+            ${{ steps.summary.outputs.body }}
+            ```
+          branch: automated/price-sync
+          delete-branch: true

@@ -1,0 +1,942 @@
+[
+  {
+    "model": "claude-fable-5",
+    "vendor": "anthropic",
+    "input_price_usd": 10.0,
+    "output_price_usd": 50.0,
+    "cache_read_price_usd": 1.0,
+    "cache_write_price_usd": 12.5,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "claude-haiku-4-5",
+    "vendor": "anthropic",
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 1.25,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "claude-mythos-5",
+    "vendor": "anthropic",
+    "input_price_usd": 10.0,
+    "output_price_usd": 50.0,
+    "cache_read_price_usd": 1.0,
+    "cache_write_price_usd": 12.5,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "claude-opus-4-5",
+    "vendor": "anthropic",
+    "input_price_usd": 5.0,
+    "output_price_usd": 25.0,
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": 6.25,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "vendor": "anthropic",
+    "input_price_usd": 5.0,
+    "output_price_usd": 25.0,
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": 6.25,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "claude-opus-4-7",
+    "vendor": "anthropic",
+    "input_price_usd": 5.0,
+    "output_price_usd": 25.0,
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": 6.25,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "claude-opus-4-8",
+    "vendor": "anthropic",
+    "input_price_usd": 5.0,
+    "output_price_usd": 25.0,
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": 6.25,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "claude-sonnet-4-5",
+    "vendor": "anthropic",
+    "input_price_usd": 3.0,
+    "output_price_usd": 15.0,
+    "cache_read_price_usd": 0.3,
+    "cache_write_price_usd": 3.75,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "vendor": "anthropic",
+    "input_price_usd": 3.0,
+    "output_price_usd": 15.0,
+    "cache_read_price_usd": 0.3,
+    "cache_write_price_usd": 3.75,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "claude-sonnet-5",
+    "vendor": "anthropic",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 2.5,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.0-flash",
+    "vendor": "google",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": 0.025,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.0-flash-lite",
+    "vendor": "google",
+    "input_price_usd": 0.075,
+    "output_price_usd": 0.3,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.5-computer-use-preview-10-2025",
+    "vendor": "google",
+    "input_price_usd": 1.25,
+    "output_price_usd": 10.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "vendor": "google",
+    "input_price_usd": 0.3,
+    "output_price_usd": 2.5,
+    "cache_read_price_usd": 0.03,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "vendor": "google",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": 0.01,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.5-flash-lite-preview-09-2025",
+    "vendor": "google",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": 0.01,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.5-flash-native-audio-preview-12-2025",
+    "vendor": "google",
+    "input_price_usd": 0.5,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.5-flash-preview-tts",
+    "vendor": "google",
+    "input_price_usd": 0.5,
+    "output_price_usd": 10.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.5-pro",
+    "vendor": "google",
+    "input_price_usd": 1.25,
+    "output_price_usd": 10.0,
+    "cache_read_price_usd": 0.125,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-2.5-pro-preview-tts",
+    "vendor": "google",
+    "input_price_usd": 1.0,
+    "output_price_usd": 20.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "vendor": "google",
+    "input_price_usd": 0.5,
+    "output_price_usd": 3.0,
+    "cache_read_price_usd": 0.05,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3-pro-image",
+    "vendor": "google",
+    "input_price_usd": 2.0,
+    "output_price_usd": 12.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3.1-flash-image",
+    "vendor": "google",
+    "input_price_usd": 0.5,
+    "output_price_usd": 3.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "vendor": "google",
+    "input_price_usd": 0.25,
+    "output_price_usd": 1.5,
+    "cache_read_price_usd": 0.025,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3.1-flash-lite-image",
+    "vendor": "google",
+    "input_price_usd": 0.25,
+    "output_price_usd": 1.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3.1-flash-live-preview",
+    "vendor": "google",
+    "input_price_usd": 0.75,
+    "output_price_usd": 4.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3.1-flash-tts-preview",
+    "vendor": "google",
+    "input_price_usd": 1.0,
+    "output_price_usd": 20.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3.1-pro-preview",
+    "vendor": "google",
+    "input_price_usd": 2.0,
+    "output_price_usd": 12.0,
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3.5-flash",
+    "vendor": "google",
+    "input_price_usd": 1.5,
+    "output_price_usd": 9.0,
+    "cache_read_price_usd": 0.15,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-3.5-live-translate-preview",
+    "vendor": "google",
+    "input_price_usd": 3.5,
+    "output_price_usd": 21.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-omni-flash-preview",
+    "vendor": "google",
+    "input_price_usd": 1.5,
+    "output_price_usd": 9.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gemini-robotics-er-1.6-preview",
+    "vendor": "google",
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "babbage-002",
+    "vendor": "openai",
+    "input_price_usd": 0.4,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "davinci-002",
+    "vendor": "openai",
+    "input_price_usd": 2.0,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-3.5-0301",
+    "vendor": "openai",
+    "input_price_usd": 1.5,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "vendor": "openai",
+    "input_price_usd": 0.5,
+    "output_price_usd": 1.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "vendor": "openai",
+    "input_price_usd": 0.5,
+    "output_price_usd": 1.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-3.5-turbo-0613",
+    "vendor": "openai",
+    "input_price_usd": 1.5,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "vendor": "openai",
+    "input_price_usd": 1.0,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-3.5-turbo-16k-0613",
+    "vendor": "openai",
+    "input_price_usd": 3.0,
+    "output_price_usd": 4.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-3.5-turbo-instruct",
+    "vendor": "openai",
+    "input_price_usd": 1.5,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4-0125-preview",
+    "vendor": "openai",
+    "input_price_usd": 10.0,
+    "output_price_usd": 30.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4-0314",
+    "vendor": "openai",
+    "input_price_usd": 30.0,
+    "output_price_usd": 60.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4-0613",
+    "vendor": "openai",
+    "input_price_usd": 30.0,
+    "output_price_usd": 60.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4-1106-preview",
+    "vendor": "openai",
+    "input_price_usd": 10.0,
+    "output_price_usd": 30.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4-1106-vision-preview",
+    "vendor": "openai",
+    "input_price_usd": 10.0,
+    "output_price_usd": 30.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4-32k",
+    "vendor": "openai",
+    "input_price_usd": 60.0,
+    "output_price_usd": 120.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4-turbo-2024-04-09",
+    "vendor": "openai",
+    "input_price_usd": 10.0,
+    "output_price_usd": 30.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4.1",
+    "vendor": "openai",
+    "input_price_usd": 2.0,
+    "output_price_usd": 8.0,
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "vendor": "openai",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.6,
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "vendor": "openai",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": 0.025,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4o",
+    "vendor": "openai",
+    "input_price_usd": 2.5,
+    "output_price_usd": 10.0,
+    "cache_read_price_usd": 1.25,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4o-2024-05-13",
+    "vendor": "openai",
+    "input_price_usd": 5.0,
+    "output_price_usd": 15.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-4o-mini",
+    "vendor": "openai",
+    "input_price_usd": 0.15,
+    "output_price_usd": 0.6,
+    "cache_read_price_usd": 0.075,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5",
+    "vendor": "openai",
+    "input_price_usd": 1.25,
+    "output_price_usd": 10.0,
+    "cache_read_price_usd": 0.125,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5-mini",
+    "vendor": "openai",
+    "input_price_usd": 0.25,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": 0.025,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5-nano",
+    "vendor": "openai",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": 0.005,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5-pro",
+    "vendor": "openai",
+    "input_price_usd": 15.0,
+    "output_price_usd": 120.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5.1",
+    "vendor": "openai",
+    "input_price_usd": 1.25,
+    "output_price_usd": 10.0,
+    "cache_read_price_usd": 0.125,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5.2",
+    "vendor": "openai",
+    "input_price_usd": 1.75,
+    "output_price_usd": 14.0,
+    "cache_read_price_usd": 0.175,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5.2-pro",
+    "vendor": "openai",
+    "input_price_usd": 21.0,
+    "output_price_usd": 168.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5.4",
+    "vendor": "openai",
+    "input_price_usd": 2.5,
+    "output_price_usd": 15.0,
+    "cache_read_price_usd": 0.25,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "vendor": "openai",
+    "input_price_usd": 0.75,
+    "output_price_usd": 4.5,
+    "cache_read_price_usd": 0.075,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "vendor": "openai",
+    "input_price_usd": 0.2,
+    "output_price_usd": 1.25,
+    "cache_read_price_usd": 0.02,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5.4-pro",
+    "vendor": "openai",
+    "input_price_usd": 30.0,
+    "output_price_usd": 180.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5.5",
+    "vendor": "openai",
+    "input_price_usd": 5.0,
+    "output_price_usd": 30.0,
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "gpt-5.5-pro",
+    "vendor": "openai",
+    "input_price_usd": 30.0,
+    "output_price_usd": 180.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "o1",
+    "vendor": "openai",
+    "input_price_usd": 15.0,
+    "output_price_usd": 60.0,
+    "cache_read_price_usd": 7.5,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "o1-mini",
+    "vendor": "openai",
+    "input_price_usd": 1.1,
+    "output_price_usd": 4.4,
+    "cache_read_price_usd": 0.55,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "o1-pro",
+    "vendor": "openai",
+    "input_price_usd": 150.0,
+    "output_price_usd": 600.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "o3",
+    "vendor": "openai",
+    "input_price_usd": 2.0,
+    "output_price_usd": 8.0,
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "o3-mini",
+    "vendor": "openai",
+    "input_price_usd": 1.1,
+    "output_price_usd": 4.4,
+    "cache_read_price_usd": 0.55,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "o3-pro",
+    "vendor": "openai",
+    "input_price_usd": 20.0,
+    "output_price_usd": 80.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "o4-mini",
+    "vendor": "openai",
+    "input_price_usd": 1.1,
+    "output_price_usd": 4.4,
+    "cache_read_price_usd": 0.275,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4-32b-0414-128k",
+    "vendor": "z.ai",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.1,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.5",
+    "vendor": "z.ai",
+    "input_price_usd": 0.6,
+    "output_price_usd": 2.2,
+    "cache_read_price_usd": 0.11,
+    "cache_write_price_usd": 0.6,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.5-air",
+    "vendor": "z.ai",
+    "input_price_usd": 0.2,
+    "output_price_usd": 1.1,
+    "cache_read_price_usd": 0.03,
+    "cache_write_price_usd": 0.2,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.5-airx",
+    "vendor": "z.ai",
+    "input_price_usd": 1.1,
+    "output_price_usd": 4.5,
+    "cache_read_price_usd": 0.22,
+    "cache_write_price_usd": 1.1,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.5-flash",
+    "vendor": "z.ai",
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
+    "cache_read_price_usd": 0.0,
+    "cache_write_price_usd": 0.0,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.5-x",
+    "vendor": "z.ai",
+    "input_price_usd": 2.2,
+    "output_price_usd": 8.9,
+    "cache_read_price_usd": 0.45,
+    "cache_write_price_usd": 2.2,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.5v",
+    "vendor": "z.ai",
+    "input_price_usd": 0.6,
+    "output_price_usd": 1.8,
+    "cache_read_price_usd": 0.11,
+    "cache_write_price_usd": 0.6,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.6",
+    "vendor": "z.ai",
+    "input_price_usd": 0.6,
+    "output_price_usd": 2.2,
+    "cache_read_price_usd": 0.11,
+    "cache_write_price_usd": 0.6,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.6v",
+    "vendor": "z.ai",
+    "input_price_usd": 0.3,
+    "output_price_usd": 0.9,
+    "cache_read_price_usd": 0.05,
+    "cache_write_price_usd": 0.3,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.6v-flash",
+    "vendor": "z.ai",
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
+    "cache_read_price_usd": 0.0,
+    "cache_write_price_usd": 0.0,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.6v-flashx",
+    "vendor": "z.ai",
+    "input_price_usd": 0.04,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": 0.004,
+    "cache_write_price_usd": 0.04,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.7",
+    "vendor": "z.ai",
+    "input_price_usd": 0.6,
+    "output_price_usd": 2.2,
+    "cache_read_price_usd": 0.11,
+    "cache_write_price_usd": 0.6,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.7-flash",
+    "vendor": "z.ai",
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
+    "cache_read_price_usd": 0.0,
+    "cache_write_price_usd": 0.0,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-4.7-flashx",
+    "vendor": "z.ai",
+    "input_price_usd": 0.07,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": 0.01,
+    "cache_write_price_usd": 0.07,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-5",
+    "vendor": "z.ai",
+    "input_price_usd": 1.0,
+    "output_price_usd": 3.2,
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 1.0,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-5-turbo",
+    "vendor": "z.ai",
+    "input_price_usd": 1.2,
+    "output_price_usd": 4.0,
+    "cache_read_price_usd": 0.24,
+    "cache_write_price_usd": 1.2,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-5.1",
+    "vendor": "z.ai",
+    "input_price_usd": 1.4,
+    "output_price_usd": 4.4,
+    "cache_read_price_usd": 0.26,
+    "cache_write_price_usd": 1.4,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-5.2",
+    "vendor": "z.ai",
+    "input_price_usd": 1.4,
+    "output_price_usd": 4.4,
+    "cache_read_price_usd": 0.26,
+    "cache_write_price_usd": 1.4,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-5v-turbo",
+    "vendor": "z.ai",
+    "input_price_usd": 1.2,
+    "output_price_usd": 4.0,
+    "cache_read_price_usd": 0.24,
+    "cache_write_price_usd": 1.2,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  },
+  {
+    "model": "glm-ocr",
+    "vendor": "z.ai",
+    "input_price_usd": 0.03,
+    "output_price_usd": 0.03,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-07-03"
+  }
+]
