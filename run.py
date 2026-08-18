@@ -15,7 +15,16 @@ import json
 import sys
 from pathlib import Path
 
-from scrapers import anthropic_scraper, google_scraper, openai_scraper, zai_scraper
+from scrapers import (
+    alibaba_scraper,
+    anthropic_scraper,
+    deepseek_scraper,
+    google_scraper,
+    minimax_scraper,
+    moonshot_scraper,
+    openai_scraper,
+    zai_scraper,
+)
 from scrapers.sanity import check_entry
 
 REPO_ROOT = Path(__file__).parent
@@ -25,6 +34,10 @@ SCRAPERS = {
     "openai": openai_scraper.scrape,
     "anthropic": anthropic_scraper.scrape,
     "google": google_scraper.scrape,
+    "deepseek": deepseek_scraper.scrape,
+    "moonshot": moonshot_scraper.scrape,
+    "minimax": minimax_scraper.scrape,
+    "alibaba": alibaba_scraper.scrape,
     "z.ai": zai_scraper.scrape,
 }
 

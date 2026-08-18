@@ -1,5 +1,815 @@
 [
   {
+    "model": "qvq-max",
+    "vendor": "alibaba",
+    "input_price_usd": 1.2,
+    "output_price_usd": 4.8,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-flash",
+    "vendor": "alibaba",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-flash-2025-07-28",
+    "vendor": "alibaba",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-long-2025-01-25",
+    "vendor": "alibaba",
+    "input_price_usd": 0.072,
+    "output_price_usd": 0.287,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-long-latest",
+    "vendor": "alibaba",
+    "input_price_usd": 0.072,
+    "output_price_usd": 0.287,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-max",
+    "vendor": "alibaba",
+    "input_price_usd": 1.6,
+    "output_price_usd": 6.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-mt-flash",
+    "vendor": "alibaba",
+    "input_price_usd": 0.16,
+    "output_price_usd": 0.49,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-mt-lite",
+    "vendor": "alibaba",
+    "input_price_usd": 0.12,
+    "output_price_usd": 0.36,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-mt-plus",
+    "vendor": "alibaba",
+    "input_price_usd": 2.46,
+    "output_price_usd": 7.37,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-mt-turbo",
+    "vendor": "alibaba",
+    "input_price_usd": 0.16,
+    "output_price_usd": 0.49,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-plus",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-plus-2025-01-25",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-plus-2025-04-28",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-plus-2025-07-14",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-plus-2025-07-28",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-plus-2025-09-11",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-plus-2025-12-01",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-plus-latest",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-turbo",
+    "vendor": "alibaba",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-vl-max",
+    "vendor": "alibaba",
+    "input_price_usd": 0.8,
+    "output_price_usd": 3.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-vl-ocr",
+    "vendor": "alibaba",
+    "input_price_usd": 0.07,
+    "output_price_usd": 0.16,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen-vl-plus",
+    "vendor": "alibaba",
+    "input_price_usd": 0.21,
+    "output_price_usd": 0.63,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-14b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.35,
+    "output_price_usd": 1.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-235b-a22b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.7,
+    "output_price_usd": 2.8,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-235b-a22b-instruct-2507",
+    "vendor": "alibaba",
+    "input_price_usd": 0.23,
+    "output_price_usd": 0.92,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-30b-a3b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.2,
+    "output_price_usd": 0.8,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-30b-a3b-instruct-2507",
+    "vendor": "alibaba",
+    "input_price_usd": 0.2,
+    "output_price_usd": 0.8,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-32b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.16,
+    "output_price_usd": 0.64,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-8b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.18,
+    "output_price_usd": 0.7,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-coder-30b-a3b-instruct",
+    "vendor": "alibaba",
+    "input_price_usd": 0.45,
+    "output_price_usd": 2.25,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-coder-480b-a35b-instruct",
+    "vendor": "alibaba",
+    "input_price_usd": 1.5,
+    "output_price_usd": 7.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-coder-flash",
+    "vendor": "alibaba",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-coder-flash-2025-07-28",
+    "vendor": "alibaba",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-coder-next",
+    "vendor": "alibaba",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-coder-plus",
+    "vendor": "alibaba",
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-coder-plus-2025-07-22",
+    "vendor": "alibaba",
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-coder-plus-2025-09-23",
+    "vendor": "alibaba",
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-max",
+    "vendor": "alibaba",
+    "input_price_usd": 1.2,
+    "output_price_usd": 6.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-max-2025-09-23",
+    "vendor": "alibaba",
+    "input_price_usd": 1.2,
+    "output_price_usd": 6.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-max-2026-01-23",
+    "vendor": "alibaba",
+    "input_price_usd": 1.2,
+    "output_price_usd": 6.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-max-preview",
+    "vendor": "alibaba",
+    "input_price_usd": 1.2,
+    "output_price_usd": 6.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-next-80b-a3b-instruct",
+    "vendor": "alibaba",
+    "input_price_usd": 0.15,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-omni-30b-a3b-captioner",
+    "vendor": "alibaba",
+    "input_price_usd": 3.81,
+    "output_price_usd": 3.06,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-235b-a22b-instruct",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.6,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-235b-a22b-thinking",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 4.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-30b-a3b-instruct",
+    "vendor": "alibaba",
+    "input_price_usd": 0.2,
+    "output_price_usd": 0.8,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-30b-a3b-thinking",
+    "vendor": "alibaba",
+    "input_price_usd": 0.2,
+    "output_price_usd": 2.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-32b-instruct",
+    "vendor": "alibaba",
+    "input_price_usd": 0.16,
+    "output_price_usd": 0.64,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-32b-thinking",
+    "vendor": "alibaba",
+    "input_price_usd": 0.16,
+    "output_price_usd": 0.64,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-8b-instruct",
+    "vendor": "alibaba",
+    "input_price_usd": 0.18,
+    "output_price_usd": 0.7,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-8b-thinking",
+    "vendor": "alibaba",
+    "input_price_usd": 0.18,
+    "output_price_usd": 2.1,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-flash",
+    "vendor": "alibaba",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-flash-2025-10-15",
+    "vendor": "alibaba",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-flash-2026-01-22",
+    "vendor": "alibaba",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-plus",
+    "vendor": "alibaba",
+    "input_price_usd": 0.2,
+    "output_price_usd": 1.6,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-plus-2025-09-23",
+    "vendor": "alibaba",
+    "input_price_usd": 0.2,
+    "output_price_usd": 1.6,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3-vl-plus-2025-12-19",
+    "vendor": "alibaba",
+    "input_price_usd": 0.2,
+    "output_price_usd": 1.6,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.5-122b-a10b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 3.2,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.5-27b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.3,
+    "output_price_usd": 2.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.5-35b-a3b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.25,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.5-397b-a17b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.6,
+    "output_price_usd": 3.6,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.5-flash",
+    "vendor": "alibaba",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.5-flash-2026-02-23",
+    "vendor": "alibaba",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.5-plus",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 2.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.5-plus-2026-02-15",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 2.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.5-plus-2026-04-20",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 2.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.6-27b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.6,
+    "output_price_usd": 3.6,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.6-35b-a3b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.375,
+    "output_price_usd": 2.25,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.6-flash",
+    "vendor": "alibaba",
+    "input_price_usd": 0.25,
+    "output_price_usd": 1.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.6-flash-2026-04-16",
+    "vendor": "alibaba",
+    "input_price_usd": 0.25,
+    "output_price_usd": 1.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.6-max-preview",
+    "vendor": "alibaba",
+    "input_price_usd": 1.3,
+    "output_price_usd": 7.8,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.6-plus",
+    "vendor": "alibaba",
+    "input_price_usd": 0.5,
+    "output_price_usd": 3.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.6-plus-2026-04-02",
+    "vendor": "alibaba",
+    "input_price_usd": 0.5,
+    "output_price_usd": 3.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.7-max",
+    "vendor": "alibaba",
+    "input_price_usd": 2.5,
+    "output_price_usd": 7.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.7-max-2026-05-17",
+    "vendor": "alibaba",
+    "input_price_usd": 2.5,
+    "output_price_usd": 7.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.7-max-2026-05-20",
+    "vendor": "alibaba",
+    "input_price_usd": 2.5,
+    "output_price_usd": 7.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.7-max-2026-06-08",
+    "vendor": "alibaba",
+    "input_price_usd": 2.5,
+    "output_price_usd": 7.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.7-max-preview",
+    "vendor": "alibaba",
+    "input_price_usd": 2.5,
+    "output_price_usd": 7.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.7-plus",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.6,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwen3.7-plus-2026-05-26",
+    "vendor": "alibaba",
+    "input_price_usd": 0.4,
+    "output_price_usd": 1.6,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "qwq-plus",
+    "vendor": "alibaba",
+    "input_price_usd": 0.8,
+    "output_price_usd": 2.4,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
     "model": "claude-fable-5",
     "vendor": "anthropic",
     "input_price_usd": 10.0,
@@ -7,7 +817,7 @@
     "cache_read_price_usd": 1.0,
     "cache_write_price_usd": 12.5,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "claude-haiku-4-5",
@@ -17,7 +827,7 @@
     "cache_read_price_usd": 0.1,
     "cache_write_price_usd": 1.25,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "claude-mythos-5",
@@ -27,7 +837,7 @@
     "cache_read_price_usd": 1.0,
     "cache_write_price_usd": 12.5,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "claude-opus-4-5",
@@ -37,7 +847,7 @@
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": 6.25,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "claude-opus-4-6",
@@ -47,7 +857,7 @@
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": 6.25,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "claude-opus-4-7",
@@ -57,7 +867,7 @@
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": 6.25,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "claude-opus-4-8",
@@ -67,7 +877,17 @@
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": 6.25,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "claude-opus-5",
+    "vendor": "anthropic",
+    "input_price_usd": 5.0,
+    "output_price_usd": 25.0,
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": 6.25,
+    "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
+    "last_verified": "2026-08-18"
   },
   {
     "model": "claude-sonnet-4-5",
@@ -77,7 +897,7 @@
     "cache_read_price_usd": 0.3,
     "cache_write_price_usd": 3.75,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "claude-sonnet-4-6",
@@ -87,7 +907,7 @@
     "cache_read_price_usd": 0.3,
     "cache_write_price_usd": 3.75,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "claude-sonnet-5",
@@ -97,7 +917,27 @@
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": 2.5,
     "source_url": "https://platform.claude.com/docs/en/about-claude/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "deepseek-v4-flash",
+    "vendor": "deepseek",
+    "input_price_usd": 0.22,
+    "output_price_usd": 0.66,
+    "cache_read_price_usd": 0.007,
+    "cache_write_price_usd": null,
+    "source_url": "https://api-docs.deepseek.com/quick_start/pricing/",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "deepseek-v4-pro",
+    "vendor": "deepseek",
+    "input_price_usd": 0.66,
+    "output_price_usd": 1.98,
+    "cache_read_price_usd": 0.022,
+    "cache_write_price_usd": null,
+    "source_url": "https://api-docs.deepseek.com/quick_start/pricing/",
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.0-flash",
@@ -107,7 +947,7 @@
     "cache_read_price_usd": 0.025,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.0-flash-lite",
@@ -117,7 +957,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.5-computer-use-preview-10-2025",
@@ -127,7 +967,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.5-flash",
@@ -137,7 +977,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.5-flash-lite",
@@ -147,7 +987,7 @@
     "cache_read_price_usd": 0.01,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.5-flash-lite-preview-09-2025",
@@ -157,7 +997,7 @@
     "cache_read_price_usd": 0.01,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.5-flash-native-audio-preview-12-2025",
@@ -167,7 +1007,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.5-flash-preview-tts",
@@ -177,7 +1017,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.5-pro",
@@ -187,7 +1027,7 @@
     "cache_read_price_usd": 0.125,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-2.5-pro-preview-tts",
@@ -197,7 +1037,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3-flash-preview",
@@ -207,7 +1047,7 @@
     "cache_read_price_usd": 0.05,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3-pro-image",
@@ -217,7 +1057,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3.1-flash-image",
@@ -227,7 +1067,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3.1-flash-lite",
@@ -237,7 +1077,7 @@
     "cache_read_price_usd": 0.025,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3.1-flash-lite-image",
@@ -247,7 +1087,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3.1-flash-live-preview",
@@ -257,7 +1097,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3.1-flash-tts-preview",
@@ -267,7 +1107,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3.1-pro-preview",
@@ -277,7 +1117,7 @@
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3.5-flash",
@@ -287,7 +1127,17 @@
     "cache_read_price_usd": 0.15,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "gemini-3.5-flash-lite",
+    "vendor": "google",
+    "input_price_usd": 0.3,
+    "output_price_usd": 2.5,
+    "cache_read_price_usd": 0.03,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-3.5-live-translate-preview",
@@ -297,7 +1147,27 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "gemini-3.6-flash",
+    "vendor": "google",
+    "input_price_usd": 0.75,
+    "output_price_usd": 3.75,
+    "cache_read_price_usd": 0.075,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "gemini-3.7-flash",
+    "vendor": "google",
+    "input_price_usd": 0.75,
+    "output_price_usd": 3.75,
+    "cache_read_price_usd": 0.075,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-omni-flash-preview",
@@ -307,7 +1177,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gemini-robotics-er-1.6-preview",
@@ -317,7 +1187,217 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "gemini-robotics-er-2-preview",
+    "vendor": "google",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "gemini-robotics-er-2-streaming-preview",
+    "vendor": "google",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "minimax-m2",
+    "vendor": "minimax",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": 0.03,
+    "cache_write_price_usd": 0.375,
+    "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "minimax-m2.1",
+    "vendor": "minimax",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": 0.03,
+    "cache_write_price_usd": 0.375,
+    "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "minimax-m2.1-highspeed",
+    "vendor": "minimax",
+    "input_price_usd": 0.6,
+    "output_price_usd": 2.4,
+    "cache_read_price_usd": 0.03,
+    "cache_write_price_usd": 0.375,
+    "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "minimax-m2.5",
+    "vendor": "minimax",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": 0.03,
+    "cache_write_price_usd": 0.375,
+    "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "minimax-m2.5-highspeed",
+    "vendor": "minimax",
+    "input_price_usd": 0.6,
+    "output_price_usd": 2.4,
+    "cache_read_price_usd": 0.03,
+    "cache_write_price_usd": 0.375,
+    "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "minimax-m2.7",
+    "vendor": "minimax",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": 0.06,
+    "cache_write_price_usd": 0.375,
+    "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "minimax-m2.7-highspeed",
+    "vendor": "minimax",
+    "input_price_usd": 0.6,
+    "output_price_usd": 2.4,
+    "cache_read_price_usd": 0.06,
+    "cache_write_price_usd": 0.375,
+    "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "minimax-m3",
+    "vendor": "minimax",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.2,
+    "cache_read_price_usd": 0.06,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "kimi-k2.5",
+    "vendor": "moonshot",
+    "input_price_usd": 0.6,
+    "output_price_usd": 3.0,
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-k25",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "kimi-k2.6",
+    "vendor": "moonshot",
+    "input_price_usd": 0.95,
+    "output_price_usd": 4.0,
+    "cache_read_price_usd": 0.16,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-k26",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "kimi-k2.7-code",
+    "vendor": "moonshot",
+    "input_price_usd": 0.95,
+    "output_price_usd": 4.0,
+    "cache_read_price_usd": 0.19,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-k27-code",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "kimi-k2.7-code-highspeed",
+    "vendor": "moonshot",
+    "input_price_usd": 1.9,
+    "output_price_usd": 8.0,
+    "cache_read_price_usd": 0.38,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-k27-code",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "kimi-k3",
+    "vendor": "moonshot",
+    "input_price_usd": 3.0,
+    "output_price_usd": 15.0,
+    "cache_read_price_usd": 0.3,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-k3",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "moonshot-v1-128k",
+    "vendor": "moonshot",
+    "input_price_usd": 2.0,
+    "output_price_usd": 5.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-v1",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "moonshot-v1-128k-vision-preview",
+    "vendor": "moonshot",
+    "input_price_usd": 2.0,
+    "output_price_usd": 5.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-v1",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "moonshot-v1-32k",
+    "vendor": "moonshot",
+    "input_price_usd": 1.0,
+    "output_price_usd": 3.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-v1",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "moonshot-v1-32k-vision-preview",
+    "vendor": "moonshot",
+    "input_price_usd": 1.0,
+    "output_price_usd": 3.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-v1",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "moonshot-v1-8k",
+    "vendor": "moonshot",
+    "input_price_usd": 0.2,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-v1",
+    "last_verified": "2026-08-18"
+  },
+  {
+    "model": "moonshot-v1-8k-vision-preview",
+    "vendor": "moonshot",
+    "input_price_usd": 0.2,
+    "output_price_usd": 2.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://platform.kimi.ai/docs/pricing/chat-v1",
+    "last_verified": "2026-08-18"
   },
   {
     "model": "babbage-002",
@@ -327,7 +1407,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "davinci-002",
@@ -337,17 +1417,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-3.5-0301",
-    "vendor": "openai",
-    "input_price_usd": 1.5,
-    "output_price_usd": 2.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-3.5-turbo",
@@ -357,7 +1427,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-3.5-turbo-0125",
@@ -367,17 +1437,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-3.5-turbo-0613",
-    "vendor": "openai",
-    "input_price_usd": 1.5,
-    "output_price_usd": 2.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-3.5-turbo-1106",
@@ -387,17 +1447,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-3.5-turbo-16k-0613",
-    "vendor": "openai",
-    "input_price_usd": 3.0,
-    "output_price_usd": 4.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-3.5-turbo-instruct",
@@ -407,27 +1457,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-4-0125-preview",
-    "vendor": "openai",
-    "input_price_usd": 10.0,
-    "output_price_usd": 30.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-4-0314",
-    "vendor": "openai",
-    "input_price_usd": 30.0,
-    "output_price_usd": 60.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-4-0613",
@@ -437,37 +1467,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-4-1106-preview",
-    "vendor": "openai",
-    "input_price_usd": 10.0,
-    "output_price_usd": 30.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-4-1106-vision-preview",
-    "vendor": "openai",
-    "input_price_usd": 10.0,
-    "output_price_usd": 30.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-4-32k",
-    "vendor": "openai",
-    "input_price_usd": 60.0,
-    "output_price_usd": 120.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-4-turbo-2024-04-09",
@@ -477,7 +1477,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-4.1",
@@ -487,7 +1487,7 @@
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-4.1-mini",
@@ -497,7 +1497,7 @@
     "cache_read_price_usd": 0.1,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-4.1-nano",
@@ -507,7 +1507,7 @@
     "cache_read_price_usd": 0.025,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-4o",
@@ -517,7 +1517,7 @@
     "cache_read_price_usd": 1.25,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-4o-2024-05-13",
@@ -527,7 +1527,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-4o-mini",
@@ -537,7 +1537,7 @@
     "cache_read_price_usd": 0.075,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-5",
@@ -547,7 +1547,7 @@
     "cache_read_price_usd": 0.125,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-5-mini",
@@ -557,7 +1557,7 @@
     "cache_read_price_usd": 0.025,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-5-nano",
@@ -567,7 +1567,7 @@
     "cache_read_price_usd": 0.005,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-5-pro",
@@ -577,7 +1577,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-5.1",
@@ -587,7 +1587,7 @@
     "cache_read_price_usd": 0.125,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-5.2",
@@ -597,7 +1597,7 @@
     "cache_read_price_usd": 0.175,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "gpt-5.2-pro",
@@ -607,67 +1607,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-5.4",
-    "vendor": "openai",
-    "input_price_usd": 2.5,
-    "output_price_usd": 15.0,
-    "cache_read_price_usd": 0.25,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-5.4-mini",
-    "vendor": "openai",
-    "input_price_usd": 0.75,
-    "output_price_usd": 4.5,
-    "cache_read_price_usd": 0.075,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-5.4-nano",
-    "vendor": "openai",
-    "input_price_usd": 0.2,
-    "output_price_usd": 1.25,
-    "cache_read_price_usd": 0.02,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-5.4-pro",
-    "vendor": "openai",
-    "input_price_usd": 30.0,
-    "output_price_usd": 180.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-5.5",
-    "vendor": "openai",
-    "input_price_usd": 5.0,
-    "output_price_usd": 30.0,
-    "cache_read_price_usd": 0.5,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "gpt-5.5-pro",
-    "vendor": "openai",
-    "input_price_usd": 30.0,
-    "output_price_usd": 180.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "o1",
@@ -677,17 +1617,7 @@
     "cache_read_price_usd": 7.5,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
-  },
-  {
-    "model": "o1-mini",
-    "vendor": "openai",
-    "input_price_usd": 1.1,
-    "output_price_usd": 4.4,
-    "cache_read_price_usd": 0.55,
-    "cache_write_price_usd": null,
-    "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "o1-pro",
@@ -697,7 +1627,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "o3",
@@ -707,7 +1637,7 @@
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "o3-mini",
@@ -717,7 +1647,7 @@
     "cache_read_price_usd": 0.55,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "o3-pro",
@@ -727,7 +1657,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "o4-mini",
@@ -737,7 +1667,7 @@
     "cache_read_price_usd": 0.275,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4-32b-0414-128k",
@@ -747,7 +1677,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.5",
@@ -757,7 +1687,7 @@
     "cache_read_price_usd": 0.11,
     "cache_write_price_usd": 0.6,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.5-air",
@@ -767,7 +1697,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": 0.2,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.5-airx",
@@ -777,7 +1707,7 @@
     "cache_read_price_usd": 0.22,
     "cache_write_price_usd": 1.1,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.5-flash",
@@ -787,7 +1717,7 @@
     "cache_read_price_usd": 0.0,
     "cache_write_price_usd": 0.0,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.5-x",
@@ -797,7 +1727,7 @@
     "cache_read_price_usd": 0.45,
     "cache_write_price_usd": 2.2,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.5v",
@@ -807,7 +1737,7 @@
     "cache_read_price_usd": 0.11,
     "cache_write_price_usd": 0.6,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.6",
@@ -817,7 +1747,7 @@
     "cache_read_price_usd": 0.11,
     "cache_write_price_usd": 0.6,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.6v",
@@ -827,7 +1757,7 @@
     "cache_read_price_usd": 0.05,
     "cache_write_price_usd": 0.3,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.6v-flash",
@@ -837,7 +1767,7 @@
     "cache_read_price_usd": 0.0,
     "cache_write_price_usd": 0.0,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.6v-flashx",
@@ -847,7 +1777,7 @@
     "cache_read_price_usd": 0.004,
     "cache_write_price_usd": 0.04,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.7",
@@ -857,7 +1787,7 @@
     "cache_read_price_usd": 0.11,
     "cache_write_price_usd": 0.6,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.7-flash",
@@ -867,7 +1797,7 @@
     "cache_read_price_usd": 0.0,
     "cache_write_price_usd": 0.0,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-4.7-flashx",
@@ -877,7 +1807,7 @@
     "cache_read_price_usd": 0.01,
     "cache_write_price_usd": 0.07,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-5",
@@ -887,7 +1817,7 @@
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": 1.0,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-5-turbo",
@@ -897,7 +1827,7 @@
     "cache_read_price_usd": 0.24,
     "cache_write_price_usd": 1.2,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-5.1",
@@ -907,7 +1837,7 @@
     "cache_read_price_usd": 0.26,
     "cache_write_price_usd": 1.4,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-5.2",
@@ -917,7 +1847,7 @@
     "cache_read_price_usd": 0.26,
     "cache_write_price_usd": 1.4,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-5v-turbo",
@@ -927,7 +1857,7 @@
     "cache_read_price_usd": 0.24,
     "cache_write_price_usd": 1.2,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   },
   {
     "model": "glm-ocr",
@@ -937,6 +1867,6 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-07-03"
+    "last_verified": "2026-08-18"
   }
 ]
