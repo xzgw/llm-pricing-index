@@ -23,6 +23,7 @@ from scrapers import (
     minimax_scraper,
     moonshot_scraper,
     openai_scraper,
+    openrouter_scraper,
     zai_scraper,
 )
 from scrapers.sanity import check_entry
@@ -39,6 +40,15 @@ SCRAPERS = {
     "minimax": minimax_scraper.scrape,
     "alibaba": alibaba_scraper.scrape,
     "z.ai": zai_scraper.scrape,
+    # LAST ON PURPOSE. openrouter is gap-filling: it reads prices.json to learn
+    # which models an official-vendor scraper already covers. dict order is
+    # insertion order in Python 3.7+, and run_all_scrapers iterates in that
+    # order — but note it reads the file, not this run's in-memory results, so
+    # its gap set reflects the PREVIOUS run. That is deliberate and safe: a
+    # duplicate can survive at most one cycle, and the alternative (threading
+    # this run's results into a scraper) would break the per-vendor isolation
+    # that keeps one vendor's failure from touching another's data.
+    "openrouter": openrouter_scraper.scrape,
 }
 
 

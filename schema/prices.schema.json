@@ -1,11 +1,18 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "llm-pricing-index prices.json",
-  "description": "Official per-vendor LLM API pricing, USD per 1M tokens. Root file always holds the current confirmed values only — historical changes are tracked via git log, not a history array.",
+  "description": "Per-model LLM API pricing, USD per 1M tokens. Root file always holds the current confirmed values only — historical changes are tracked via git log, not a history array. Most entries are the vendor's own official price; entries carrying source_kind=\"aggregator\" are a reseller's selling price instead (see that field).",
   "type": "array",
   "items": {
     "type": "object",
-    "required": ["model", "vendor", "input_price_usd", "output_price_usd", "source_url", "last_verified"],
+    "required": [
+      "model",
+      "vendor",
+      "input_price_usd",
+      "output_price_usd",
+      "source_url",
+      "last_verified"
+    ],
     "additionalProperties": false,
     "properties": {
       "model": {
@@ -28,12 +35,18 @@
         "description": "Output token price, USD per 1M tokens."
       },
       "cache_read_price_usd": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "minimum": 0,
         "description": "Cached/context-hit input price, USD per 1M tokens. Omit or null if the vendor doesn't publish a distinct cache-read rate for this model."
       },
       "cache_write_price_usd": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "minimum": 0,
         "description": "Cache write/creation price, USD per 1M tokens. Omit or null if the vendor doesn't publish a distinct cache-write rate for this model."
       },
@@ -46,6 +59,14 @@
         "type": "string",
         "format": "date",
         "description": "ISO 8601 date this entry was last confirmed against source_url."
+      },
+      "source_kind": {
+        "type": "string",
+        "enum": [
+          "vendor_official",
+          "aggregator"
+        ],
+        "description": "Where this price came from. \"vendor_official\" = the model vendor's own pricing page (the default, and what every entry was before this field existed). \"aggregator\" = a reseller's public price (e.g. OpenRouter), which is that reseller's SELLING price and therefore typically HIGHER than the vendor's official rate. Consumers using this file as a price CEILING must not treat the two interchangeably: an aggregator number answers \"what would the customer pay elsewhere\", a vendor_official number answers \"what does the model actually list for\"."
       }
     }
   }
