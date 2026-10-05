@@ -7,7 +7,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-flash",
@@ -17,7 +17,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-flash-2025-07-28",
@@ -27,27 +27,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "qwen-long-2025-01-25",
-    "vendor": "alibaba",
-    "input_price_usd": 0.072,
-    "output_price_usd": 0.287,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "qwen-long-latest",
-    "vendor": "alibaba",
-    "input_price_usd": 0.072,
-    "output_price_usd": 0.287,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-max",
@@ -57,7 +37,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-mt-flash",
@@ -67,7 +47,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-mt-lite",
@@ -77,7 +57,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-mt-plus",
@@ -87,7 +67,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-mt-turbo",
@@ -97,7 +77,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-plus",
@@ -107,7 +87,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-plus-2025-01-25",
@@ -117,7 +97,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-plus-2025-04-28",
@@ -127,7 +107,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-plus-2025-07-14",
@@ -137,7 +117,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-plus-2025-07-28",
@@ -147,7 +127,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-plus-2025-09-11",
@@ -157,7 +137,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-plus-2025-12-01",
@@ -167,7 +147,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-plus-latest",
@@ -177,7 +157,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-turbo",
@@ -187,7 +167,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-vl-max",
@@ -197,7 +177,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-vl-ocr",
@@ -207,7 +187,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen-vl-plus",
@@ -217,7 +197,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-14b",
@@ -227,7 +207,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-235b-a22b",
@@ -237,7 +217,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-235b-a22b-instruct-2507",
@@ -247,7 +227,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-30b-a3b",
@@ -257,7 +237,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-30b-a3b-instruct-2507",
@@ -267,7 +247,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-32b",
@@ -277,7 +257,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-8b",
@@ -287,7 +267,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-coder-30b-a3b-instruct",
@@ -297,7 +277,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-coder-480b-a35b-instruct",
@@ -307,7 +287,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-coder-flash",
@@ -317,7 +297,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-coder-flash-2025-07-28",
@@ -327,7 +307,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-coder-next",
@@ -337,7 +317,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-coder-plus",
@@ -347,7 +327,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-coder-plus-2025-07-22",
@@ -357,7 +337,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-coder-plus-2025-09-23",
@@ -367,7 +347,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-max",
@@ -377,7 +357,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-max-2025-09-23",
@@ -387,7 +367,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-max-2026-01-23",
@@ -397,7 +377,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-max-preview",
@@ -407,7 +387,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-next-80b-a3b-instruct",
@@ -417,7 +397,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-omni-30b-a3b-captioner",
@@ -427,7 +407,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-235b-a22b-instruct",
@@ -437,7 +417,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-235b-a22b-thinking",
@@ -447,7 +427,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-30b-a3b-instruct",
@@ -457,7 +437,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-30b-a3b-thinking",
@@ -467,7 +447,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-32b-instruct",
@@ -477,7 +457,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-32b-thinking",
@@ -487,7 +467,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-8b-instruct",
@@ -497,7 +477,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-8b-thinking",
@@ -507,7 +487,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-flash",
@@ -517,7 +497,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-flash-2025-10-15",
@@ -527,7 +507,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-flash-2026-01-22",
@@ -537,7 +517,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-plus",
@@ -547,7 +527,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-plus-2025-09-23",
@@ -557,7 +537,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3-vl-plus-2025-12-19",
@@ -567,7 +547,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.5-122b-a10b",
@@ -577,7 +557,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.5-27b",
@@ -587,7 +567,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.5-35b-a3b",
@@ -597,7 +577,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.5-397b-a17b",
@@ -607,7 +587,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.5-flash",
@@ -617,7 +597,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.5-flash-2026-02-23",
@@ -627,7 +607,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.5-plus",
@@ -637,7 +617,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.5-plus-2026-02-15",
@@ -647,7 +627,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.5-plus-2026-04-20",
@@ -657,7 +637,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.6-27b",
@@ -667,7 +647,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.6-35b-a3b",
@@ -677,7 +657,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.6-flash",
@@ -687,7 +667,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.6-flash-2026-04-16",
@@ -697,7 +677,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.6-max-preview",
@@ -707,7 +687,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.6-plus",
@@ -717,7 +697,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.6-plus-2026-04-02",
@@ -727,7 +707,27 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "qwen3.7-flash",
+    "vendor": "alibaba",
+    "input_price_usd": 0.03,
+    "output_price_usd": 0.13,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "qwen3.7-flash-2026-07-15",
+    "vendor": "alibaba",
+    "input_price_usd": 0.03,
+    "output_price_usd": 0.13,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.7-max",
@@ -737,7 +737,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.7-max-2026-05-17",
@@ -747,7 +747,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.7-max-2026-05-20",
@@ -757,7 +757,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.7-max-2026-06-08",
@@ -767,7 +767,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.7-max-preview",
@@ -777,7 +777,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.7-plus",
@@ -787,7 +787,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwen3.7-plus-2026-05-26",
@@ -797,7 +797,67 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "qwen3.8-2.4t-a95b",
+    "vendor": "alibaba",
+    "input_price_usd": 2.0,
+    "output_price_usd": 6.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "qwen3.8-27b",
+    "vendor": "alibaba",
+    "input_price_usd": 0.5,
+    "output_price_usd": 3.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "qwen3.8-flash",
+    "vendor": "alibaba",
+    "input_price_usd": 0.15,
+    "output_price_usd": 0.47,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "qwen3.8-max",
+    "vendor": "alibaba",
+    "input_price_usd": 2.0,
+    "output_price_usd": 6.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "qwen3.8-max-0902",
+    "vendor": "alibaba",
+    "input_price_usd": 2.0,
+    "output_price_usd": 6.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "qwen3.8-omni-flash",
+    "vendor": "alibaba",
+    "input_price_usd": 0.15,
+    "output_price_usd": 0.47,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
+    "last_verified": "2026-10-05"
   },
   {
     "model": "qwq-plus",
@@ -807,7 +867,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://www.alibabacloud.com/help/en/model-studio/model-pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "claude-fable-5",
@@ -920,14 +980,14 @@
     "last_verified": "2026-08-18"
   },
   {
-    "model": "deepseek-v4-flash",
+    "model": "deepseek-flash (1)",
     "vendor": "deepseek",
-    "input_price_usd": 0.22,
-    "output_price_usd": 0.66,
-    "cache_read_price_usd": 0.007,
+    "input_price_usd": 0.15,
+    "output_price_usd": 0.6,
+    "cache_read_price_usd": 0.003,
     "cache_write_price_usd": null,
     "source_url": "https://api-docs.deepseek.com/quick_start/pricing/",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "deepseek-v4-pro",
@@ -937,37 +997,7 @@
     "cache_read_price_usd": 0.022,
     "cache_write_price_usd": null,
     "source_url": "https://api-docs.deepseek.com/quick_start/pricing/",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "gemini-2.0-flash",
-    "vendor": "google",
-    "input_price_usd": 0.1,
-    "output_price_usd": 0.4,
-    "cache_read_price_usd": 0.025,
-    "cache_write_price_usd": null,
-    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "gemini-2.0-flash-lite",
-    "vendor": "google",
-    "input_price_usd": 0.075,
-    "output_price_usd": 0.3,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "gemini-2.5-computer-use-preview-10-2025",
-    "vendor": "google",
-    "input_price_usd": 1.25,
-    "output_price_usd": 10.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-2.5-flash",
@@ -977,7 +1007,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-2.5-flash-lite",
@@ -987,17 +1017,7 @@
     "cache_read_price_usd": 0.01,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "gemini-2.5-flash-lite-preview-09-2025",
-    "vendor": "google",
-    "input_price_usd": 0.1,
-    "output_price_usd": 0.4,
-    "cache_read_price_usd": 0.01,
-    "cache_write_price_usd": null,
-    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-2.5-flash-native-audio-preview-12-2025",
@@ -1007,7 +1027,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-2.5-flash-preview-tts",
@@ -1017,7 +1037,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-2.5-pro",
@@ -1027,7 +1047,7 @@
     "cache_read_price_usd": 0.125,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-2.5-pro-preview-tts",
@@ -1037,7 +1057,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3-flash-preview",
@@ -1047,7 +1067,7 @@
     "cache_read_price_usd": 0.05,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3-pro-image",
@@ -1057,7 +1077,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.1-flash-image",
@@ -1067,7 +1087,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.1-flash-lite",
@@ -1077,7 +1097,7 @@
     "cache_read_price_usd": 0.025,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.1-flash-lite-image",
@@ -1087,17 +1107,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "gemini-3.1-flash-live-preview",
-    "vendor": "google",
-    "input_price_usd": 0.75,
-    "output_price_usd": 4.5,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.1-flash-tts-preview",
@@ -1107,7 +1117,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.1-pro-preview",
@@ -1117,7 +1127,7 @@
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.5-flash",
@@ -1127,7 +1137,7 @@
     "cache_read_price_usd": 0.15,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.5-flash-lite",
@@ -1137,7 +1147,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.5-live-translate-preview",
@@ -1147,7 +1157,27 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gemini-3.5-transcribe",
+    "vendor": "google",
+    "input_price_usd": 2.0,
+    "output_price_usd": 12.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gemini-3.5-transcribe-live",
+    "vendor": "google",
+    "input_price_usd": 3.5,
+    "output_price_usd": 21.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.6-flash",
@@ -1157,7 +1187,7 @@
     "cache_read_price_usd": 0.075,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-3.7-flash",
@@ -1167,7 +1197,57 @@
     "cache_read_price_usd": 0.075,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gemini-3.8-flash",
+    "vendor": "google",
+    "input_price_usd": 0.75,
+    "output_price_usd": 3.75,
+    "cache_read_price_usd": 0.075,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gemini-3.8-flash-lite-tts",
+    "vendor": "google",
+    "input_price_usd": 0.5,
+    "output_price_usd": 6.0,
+    "cache_read_price_usd": 0.125,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gemini-3.8-flash-tts",
+    "vendor": "google",
+    "input_price_usd": 0.5,
+    "output_price_usd": 9.0,
+    "cache_read_price_usd": 0.125,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gemini-3.8-live",
+    "vendor": "google",
+    "input_price_usd": 0.75,
+    "output_price_usd": 4.5,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gemini-omni-1.1-flash",
+    "vendor": "google",
+    "input_price_usd": 1.5,
+    "output_price_usd": 9.0,
+    "cache_read_price_usd": null,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gemini-omni-flash-preview",
@@ -1177,37 +1257,27 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
-    "model": "gemini-robotics-er-1.6-preview",
+    "model": "gemini-robotics-er-2-preview",
+    "vendor": "google",
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": null,
+    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gemini-robotics-er-2-streaming-preview",
     "vendor": "google",
     "input_price_usd": 1.0,
     "output_price_usd": 5.0,
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "gemini-robotics-er-2-preview",
-    "vendor": "google",
-    "input_price_usd": 2.0,
-    "output_price_usd": 10.0,
-    "cache_read_price_usd": 0.2,
-    "cache_write_price_usd": null,
-    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "gemini-robotics-er-2-streaming-preview",
-    "vendor": "google",
-    "input_price_usd": 2.0,
-    "output_price_usd": 10.0,
-    "cache_read_price_usd": null,
-    "cache_write_price_usd": null,
-    "source_url": "https://ai.google.dev/gemini-api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "minimax-m2",
@@ -1217,7 +1287,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": 0.375,
     "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "minimax-m2.1",
@@ -1227,7 +1297,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": 0.375,
     "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "minimax-m2.1-highspeed",
@@ -1237,7 +1307,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": 0.375,
     "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "minimax-m2.5",
@@ -1247,7 +1317,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": 0.375,
     "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "minimax-m2.5-highspeed",
@@ -1257,7 +1327,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": 0.375,
     "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "minimax-m2.7",
@@ -1267,7 +1337,7 @@
     "cache_read_price_usd": 0.06,
     "cache_write_price_usd": 0.375,
     "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "minimax-m2.7-highspeed",
@@ -1277,7 +1347,7 @@
     "cache_read_price_usd": 0.06,
     "cache_write_price_usd": 0.375,
     "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "minimax-m3",
@@ -1287,7 +1357,7 @@
     "cache_read_price_usd": 0.06,
     "cache_write_price_usd": null,
     "source_url": "https://platform.minimax.io/docs/guides/pricing-paygo",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "kimi-k2.5",
@@ -1407,7 +1477,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "davinci-002",
@@ -1417,7 +1487,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-3.5-turbo",
@@ -1427,7 +1497,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-3.5-turbo-0125",
@@ -1437,7 +1507,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-3.5-turbo-1106",
@@ -1447,7 +1517,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-3.5-turbo-instruct",
@@ -1457,7 +1527,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-4-0613",
@@ -1467,7 +1537,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-4-turbo-2024-04-09",
@@ -1477,7 +1547,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-4.1",
@@ -1487,7 +1557,7 @@
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-4.1-mini",
@@ -1497,7 +1567,7 @@
     "cache_read_price_usd": 0.1,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-4.1-nano",
@@ -1507,7 +1577,7 @@
     "cache_read_price_usd": 0.025,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-4o",
@@ -1517,7 +1587,7 @@
     "cache_read_price_usd": 1.25,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-4o-2024-05-13",
@@ -1527,7 +1597,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-4o-mini",
@@ -1537,7 +1607,7 @@
     "cache_read_price_usd": 0.075,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-5",
@@ -1547,7 +1617,7 @@
     "cache_read_price_usd": 0.125,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-5-mini",
@@ -1557,7 +1627,7 @@
     "cache_read_price_usd": 0.025,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-5-nano",
@@ -1567,7 +1637,7 @@
     "cache_read_price_usd": 0.005,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-5-pro",
@@ -1577,7 +1647,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-5.1",
@@ -1587,7 +1657,7 @@
     "cache_read_price_usd": 0.125,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-5.2",
@@ -1597,7 +1667,7 @@
     "cache_read_price_usd": 0.175,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "gpt-5.2-pro",
@@ -1607,7 +1677,27 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "vendor": "openai",
+    "input_price_usd": 0.75,
+    "output_price_usd": 4.5,
+    "cache_read_price_usd": 0.075,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "vendor": "openai",
+    "input_price_usd": 0.2,
+    "output_price_usd": 1.25,
+    "cache_read_price_usd": 0.02,
+    "cache_write_price_usd": null,
+    "source_url": "https://developers.openai.com/api/docs/pricing",
+    "last_verified": "2026-10-05"
   },
   {
     "model": "o1",
@@ -1617,7 +1707,7 @@
     "cache_read_price_usd": 7.5,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "o1-pro",
@@ -1627,7 +1717,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "o3",
@@ -1637,7 +1727,7 @@
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "o3-mini",
@@ -1647,7 +1737,7 @@
     "cache_read_price_usd": 0.55,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "o3-pro",
@@ -1657,7 +1747,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "o4-mini",
@@ -1667,7 +1757,7 @@
     "cache_read_price_usd": 0.275,
     "cache_write_price_usd": null,
     "source_url": "https://developers.openai.com/api/docs/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "aion-2.0",
@@ -1675,7 +1765,7 @@
     "input_price_usd": 0.8,
     "output_price_usd": 1.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2
   },
@@ -1685,7 +1775,7 @@
     "input_price_usd": 3.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.75
   },
@@ -1695,7 +1785,27 @@
     "input_price_usd": 0.7,
     "output_price_usd": 1.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.18
+  },
+  {
+    "model": "aion-3.5",
+    "vendor": "openrouter",
+    "input_price_usd": 3.0,
+    "output_price_usd": 6.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.75
+  },
+  {
+    "model": "aion-3.5-mini",
+    "vendor": "openrouter",
+    "input_price_usd": 0.7,
+    "output_price_usd": 1.4,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.18
   },
@@ -1705,19 +1815,39 @@
     "input_price_usd": 0.8,
     "output_price_usd": 1.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
-    "model": "claude-3-haiku",
+    "model": "apodex-1.1-mini:free",
     "vendor": "openrouter",
-    "input_price_usd": 0.25,
-    "output_price_usd": 1.25,
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "claude-fable-5.1",
+    "vendor": "openrouter",
+    "input_price_usd": 10.0,
+    "output_price_usd": 50.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.03,
-    "cache_write_price_usd": 0.3
+    "cache_read_price_usd": 0.25,
+    "cache_write_price_usd": 12.5
+  },
+  {
+    "model": "claude-fable-5.1:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 5.0,
+    "output_price_usd": 25.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.125,
+    "cache_write_price_usd": 6.25
   },
   {
     "model": "claude-fable-5:batch",
@@ -1725,7 +1855,7 @@
     "input_price_usd": 5.0,
     "output_price_usd": 25.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": 6.25
@@ -1736,9 +1866,9 @@
     "input_price_usd": 10.0,
     "output_price_usd": 50.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 1.0,
+    "cache_read_price_usd": 0.25,
     "cache_write_price_usd": 12.5
   },
   {
@@ -1747,7 +1877,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1,
     "cache_write_price_usd": 1.25
@@ -1758,7 +1888,7 @@
     "input_price_usd": 0.5,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.05,
     "cache_write_price_usd": 0.625
@@ -1769,21 +1899,10 @@
     "input_price_usd": 1.0,
     "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1,
     "cache_write_price_usd": 1.25
-  },
-  {
-    "model": "claude-opus-4",
-    "vendor": "openrouter",
-    "input_price_usd": 15.0,
-    "output_price_usd": 75.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 1.5,
-    "cache_write_price_usd": 18.75
   },
   {
     "model": "claude-opus-4.1",
@@ -1791,7 +1910,7 @@
     "input_price_usd": 15.0,
     "output_price_usd": 75.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 1.5,
     "cache_write_price_usd": 18.75
@@ -1802,7 +1921,7 @@
     "input_price_usd": 7.5,
     "output_price_usd": 37.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.75,
     "cache_write_price_usd": 9.375
@@ -1813,7 +1932,7 @@
     "input_price_usd": 5.0,
     "output_price_usd": 25.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": 6.25
@@ -1824,7 +1943,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 12.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25,
     "cache_write_price_usd": 3.125
@@ -1835,7 +1954,7 @@
     "input_price_usd": 5.0,
     "output_price_usd": 25.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": 6.25
@@ -1846,7 +1965,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 12.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25,
     "cache_write_price_usd": 3.125
@@ -1857,21 +1976,10 @@
     "input_price_usd": 5.0,
     "output_price_usd": 25.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": 6.25
-  },
-  {
-    "model": "claude-opus-4.7-fast",
-    "vendor": "openrouter",
-    "input_price_usd": 30.0,
-    "output_price_usd": 150.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 3.0,
-    "cache_write_price_usd": 37.5
   },
   {
     "model": "claude-opus-4.7:batch",
@@ -1879,7 +1987,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 12.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25,
     "cache_write_price_usd": 3.125
@@ -1890,21 +1998,10 @@
     "input_price_usd": 5.0,
     "output_price_usd": 25.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5,
     "cache_write_price_usd": 6.25
-  },
-  {
-    "model": "claude-opus-4.8-fast",
-    "vendor": "openrouter",
-    "input_price_usd": 10.0,
-    "output_price_usd": 50.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 1.0,
-    "cache_write_price_usd": 12.5
   },
   {
     "model": "claude-opus-4.8:batch",
@@ -1912,21 +2009,32 @@
     "input_price_usd": 2.5,
     "output_price_usd": 12.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25,
     "cache_write_price_usd": 3.125
   },
   {
-    "model": "claude-opus-5-fast",
+    "model": "claude-opus-5.5",
     "vendor": "openrouter",
-    "input_price_usd": 10.0,
-    "output_price_usd": 50.0,
+    "input_price_usd": 4.0,
+    "output_price_usd": 20.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 1.0,
-    "cache_write_price_usd": 12.5
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 5.0
+  },
+  {
+    "model": "claude-opus-5.5:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 2.5
   },
   {
     "model": "claude-opus-5:batch",
@@ -1934,7 +2042,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 12.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25,
     "cache_write_price_usd": 3.125
@@ -1942,13 +2050,13 @@
   {
     "model": "claude-opus-latest",
     "vendor": "openrouter",
-    "input_price_usd": 5.0,
-    "output_price_usd": 25.0,
+    "input_price_usd": 4.0,
+    "output_price_usd": 20.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.5,
-    "cache_write_price_usd": 6.25
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 5.0
   },
   {
     "model": "claude-sonnet-4",
@@ -1956,7 +2064,7 @@
     "input_price_usd": 3.0,
     "output_price_usd": 15.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.3,
     "cache_write_price_usd": 3.75
@@ -1967,7 +2075,7 @@
     "input_price_usd": 3.0,
     "output_price_usd": 15.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.3,
     "cache_write_price_usd": 3.75
@@ -1978,7 +2086,7 @@
     "input_price_usd": 1.5,
     "output_price_usd": 7.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.15,
     "cache_write_price_usd": 1.875
@@ -1989,7 +2097,7 @@
     "input_price_usd": 3.0,
     "output_price_usd": 15.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.3,
     "cache_write_price_usd": 3.75
@@ -2000,10 +2108,32 @@
     "input_price_usd": 1.5,
     "output_price_usd": 7.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.15,
     "cache_write_price_usd": 1.875
+  },
+  {
+    "model": "claude-sonnet-5.5",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 2.5
+  },
+  {
+    "model": "claude-sonnet-5.5:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 1.25
   },
   {
     "model": "claude-sonnet-5:batch",
@@ -2011,7 +2141,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1,
     "cache_write_price_usd": 1.25
@@ -2022,7 +2152,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": 2.5
@@ -2033,18 +2163,19 @@
     "input_price_usd": 0.3,
     "output_price_usd": 0.9,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.03
   },
   {
-    "model": "cogito-v2.1-671b",
+    "model": "codestral-2508:batch",
     "vendor": "openrouter",
-    "input_price_usd": 1.25,
-    "output_price_usd": 1.25,
+    "input_price_usd": 0.15,
+    "output_price_usd": 0.45,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.015
   },
   {
     "model": "command-a",
@@ -2052,8 +2183,18 @@
     "input_price_usd": 2.5,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
+  },
+  {
+    "model": "command-a-plus",
+    "vendor": "openrouter",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.5,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.15
   },
   {
     "model": "command-r-08-2024",
@@ -2061,7 +2202,7 @@
     "input_price_usd": 0.15,
     "output_price_usd": 0.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2070,7 +2211,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2079,7 +2220,7 @@
     "input_price_usd": 0.0375,
     "output_price_usd": 0.15,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2088,7 +2229,7 @@
     "input_price_usd": 0.3,
     "output_price_usd": 0.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.15
   },
@@ -2098,18 +2239,18 @@
     "input_price_usd": 0.2574,
     "output_price_usd": 1.0287,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "deepseek-chat-v3-0324",
     "vendor": "openrouter",
-    "input_price_usd": 0.27,
-    "output_price_usd": 1.12,
+    "input_price_usd": 0.29,
+    "output_price_usd": 1.14,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.135
+    "cache_read_price_usd": 0.11
   },
   {
     "model": "deepseek-chat-v3.1",
@@ -2117,9 +2258,29 @@
     "input_price_usd": 0.25,
     "output_price_usd": 0.95,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.13
+  },
+  {
+    "model": "deepseek-flash-latest",
+    "vendor": "openrouter",
+    "input_price_usd": 0.003,
+    "output_price_usd": 2.4,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.003
+  },
+  {
+    "model": "deepseek-pro-latest",
+    "vendor": "openrouter",
+    "input_price_usd": 0.1901,
+    "output_price_usd": 4.2,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.19
   },
   {
     "model": "deepseek-r1",
@@ -2127,7 +2288,7 @@
     "input_price_usd": 0.7,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2136,18 +2297,9 @@
     "input_price_usd": 0.5,
     "output_price_usd": 2.15,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.35
-  },
-  {
-    "model": "deepseek-r1-distill-llama-70b",
-    "vendor": "openrouter",
-    "input_price_usd": 0.8,
-    "output_price_usd": 0.8,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
   },
   {
     "model": "deepseek-v3.1-terminus",
@@ -2155,18 +2307,18 @@
     "input_price_usd": 0.27,
     "output_price_usd": 1.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "deepseek-v3.2",
     "vendor": "openrouter",
-    "input_price_usd": 0.269,
-    "output_price_usd": 0.4,
+    "input_price_usd": 0.28,
+    "output_price_usd": 0.42,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.1345
+    "cache_read_price_usd": 0.028
   },
   {
     "model": "deepseek-v3.2-exp",
@@ -2174,38 +2326,78 @@
     "input_price_usd": 0.27,
     "output_price_usd": 0.41,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "deepseek-v4-flash-0731",
     "vendor": "openrouter",
-    "input_price_usd": 0.14,
-    "output_price_usd": 0.28,
+    "input_price_usd": 0.0152,
+    "output_price_usd": 1.28,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.028
+    "cache_read_price_usd": 0.0152
   },
   {
     "model": "deepseek-v4-flash-latest",
     "vendor": "openrouter",
-    "input_price_usd": 0.078596,
-    "output_price_usd": 0.157192,
+    "input_price_usd": 0.0152,
+    "output_price_usd": 1.28,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.015719
+    "cache_read_price_usd": 0.0152
+  },
+  {
+    "model": "deepseek-v4-flash-vision-exp",
+    "vendor": "openrouter",
+    "input_price_usd": 0.2156,
+    "output_price_usd": 0.6468,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.00686
   },
   {
     "model": "deepseek-v4-pro-0813",
     "vendor": "openrouter",
-    "input_price_usd": 0.66,
-    "output_price_usd": 1.98,
+    "input_price_usd": 0.4,
+    "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.022
+    "cache_read_price_usd": 0.36
+  },
+  {
+    "model": "deepseek-v4.1-flash",
+    "vendor": "openrouter",
+    "input_price_usd": 0.3,
+    "output_price_usd": 1.2,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.006
+  },
+  {
+    "model": "deepseek-v4.1-flash:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.112,
+    "output_price_usd": 0.336,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.00336
+  },
+  {
+    "model": "devstral-2512",
+    "vendor": "openrouter",
+    "input_price_usd": 0.4,
+    "output_price_usd": 2.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.04
   },
   {
     "model": "dolphin-mistral-24b-venice-edition",
@@ -2213,7 +2405,7 @@
     "input_price_usd": 0.2,
     "output_price_usd": 0.9,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2222,8 +2414,18 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
+  },
+  {
+    "model": "ember-1",
+    "vendor": "openrouter",
+    "input_price_usd": 3.0,
+    "output_price_usd": 15.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.3
   },
   {
     "model": "ernie-4.5-vl-424b-a47b",
@@ -2231,7 +2433,7 @@
     "input_price_usd": 0.42,
     "output_price_usd": 1.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2240,8 +2442,18 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
+  },
+  {
+    "model": "fugu-max",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 6.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.25
   },
   {
     "model": "fugu-ultra",
@@ -2249,7 +2461,17 @@
     "input_price_usd": 5.0,
     "output_price_usd": 30.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.5
+  },
+  {
+    "model": "fugu-ultra-v2",
+    "vendor": "openrouter",
+    "input_price_usd": 5.0,
+    "output_price_usd": 30.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5
   },
@@ -2259,7 +2481,7 @@
     "input_price_usd": 0.3,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": 0.083333
@@ -2270,7 +2492,7 @@
     "input_price_usd": 0.05,
     "output_price_usd": 0.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.01
   },
@@ -2280,7 +2502,7 @@
     "input_price_usd": 0.15,
     "output_price_usd": 1.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.03
   },
@@ -2290,18 +2512,7 @@
     "input_price_usd": 1.25,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.125,
-    "cache_write_price_usd": 0.375
-  },
-  {
-    "model": "gemini-2.5-pro-preview-05-06",
-    "vendor": "openrouter",
-    "input_price_usd": 1.25,
-    "output_price_usd": 10.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.125,
     "cache_write_price_usd": 0.375
@@ -2312,7 +2523,7 @@
     "input_price_usd": 0.625,
     "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.125
   },
@@ -2322,7 +2533,7 @@
     "input_price_usd": 0.25,
     "output_price_usd": 1.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2331,7 +2542,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 12.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": 0.375
@@ -2342,7 +2553,7 @@
     "input_price_usd": 0.5,
     "output_price_usd": 3.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2351,7 +2562,7 @@
     "input_price_usd": 0.25,
     "output_price_usd": 1.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.025,
     "cache_write_price_usd": 0.083333
@@ -2362,7 +2573,7 @@
     "input_price_usd": 0.125,
     "output_price_usd": 0.75,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0125
   },
@@ -2372,7 +2583,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 12.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": 0.375
@@ -2383,7 +2594,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2392,7 +2603,7 @@
     "input_price_usd": 0.15,
     "output_price_usd": 1.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.015
   },
@@ -2402,7 +2613,7 @@
     "input_price_usd": 0.75,
     "output_price_usd": 4.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.075
   },
@@ -2412,7 +2623,7 @@
     "input_price_usd": 0.375,
     "output_price_usd": 1.875,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0375,
     "cache_write_price_usd": 0.041667
@@ -2420,24 +2631,46 @@
   {
     "model": "gemini-3.7-flash:batch",
     "vendor": "openrouter",
-    "input_price_usd": 0.1875,
-    "output_price_usd": 0.9375,
+    "input_price_usd": 0.375,
+    "output_price_usd": 1.875,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.01875,
-    "cache_write_price_usd": 0.020833
+    "cache_read_price_usd": 0.0375,
+    "cache_write_price_usd": 0.041667
   },
   {
-    "model": "gemini-flash-latest",
+    "model": "gemini-3.8-flash",
+    "vendor": "openrouter",
+    "input_price_usd": 0.75,
+    "output_price_usd": 3.75,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.075,
+    "cache_write_price_usd": 0.041667
+  },
+  {
+    "model": "gemini-3.8-flash:batch",
     "vendor": "openrouter",
     "input_price_usd": 0.375,
     "output_price_usd": 1.875,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0375,
-    "cache_write_price_usd": 0.020833
+    "cache_write_price_usd": 0.041667
+  },
+  {
+    "model": "gemini-flash-latest",
+    "vendor": "openrouter",
+    "input_price_usd": 0.75,
+    "output_price_usd": 3.75,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.075,
+    "cache_write_price_usd": 0.041667
   },
   {
     "model": "gemini-pro-latest",
@@ -2445,7 +2678,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 12.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": 0.375
@@ -2456,7 +2689,7 @@
     "input_price_usd": 0.65,
     "output_price_usd": 0.65,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2465,7 +2698,7 @@
     "input_price_usd": 0.05,
     "output_price_usd": 0.15,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2474,7 +2707,7 @@
     "input_price_usd": 0.08,
     "output_price_usd": 0.45,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.04
   },
@@ -2484,26 +2717,18 @@
     "input_price_usd": 0.05,
     "output_price_usd": 0.1,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
-  },
-  {
-    "model": "gemma-3n-e4b-it",
-    "vendor": "openrouter",
-    "input_price_usd": 0.06,
-    "output_price_usd": 0.12,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "gemma-4-26b-a4b-it",
     "vendor": "openrouter",
-    "input_price_usd": 0.07,
-    "output_price_usd": 0.34,
+    "input_price_usd": 0.09,
+    "output_price_usd": 0.3,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.05
   },
   {
     "model": "gemma-4-26b-a4b-it:free",
@@ -2511,18 +2736,18 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "gemma-4-31b-it",
     "vendor": "openrouter",
-    "input_price_usd": 0.1,
+    "input_price_usd": 0.09,
     "output_price_usd": 0.34,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.1
+    "cache_read_price_usd": 0.05
   },
   {
     "model": "gemma-4-31b-it:free",
@@ -2530,27 +2755,88 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
-    "model": "glm-5.2:batch",
+    "model": "glm-5.3",
     "vendor": "openrouter",
-    "input_price_usd": 0.7,
-    "output_price_usd": 2.2,
+    "input_price_usd": 0.05,
+    "output_price_usd": 7.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.13
+    "cache_read_price_usd": 0.045
   },
   {
-    "model": "glm-5.2:free",
+    "model": "glm-5.3-flash",
     "vendor": "openrouter",
-    "input_price_usd": 0.0,
-    "output_price_usd": 0.0,
+    "input_price_usd": 0.15,
+    "output_price_usd": 0.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.03
+  },
+  {
+    "model": "glm-5.3-flash:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.06,
+    "output_price_usd": 0.2,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.012
+  },
+  {
+    "model": "glm-5.3-flashx",
+    "vendor": "openrouter",
+    "input_price_usd": 0.37,
+    "output_price_usd": 1.25,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.09
+  },
+  {
+    "model": "glm-5.3-prime",
+    "vendor": "openrouter",
+    "input_price_usd": 2.8,
+    "output_price_usd": 8.8,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.56
+  },
+  {
+    "model": "glm-5.3:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.45,
+    "output_price_usd": 2.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.1
+  },
+  {
+    "model": "glm-flash-latest",
+    "vendor": "openrouter",
+    "input_price_usd": 0.0352,
+    "output_price_usd": 0.5,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.0232
+  },
+  {
+    "model": "glm-latest",
+    "vendor": "openrouter",
+    "input_price_usd": 0.03,
+    "output_price_usd": 12.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.03
   },
   {
     "model": "gpt-3.5-turbo-0613",
@@ -2558,7 +2844,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 2.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2567,7 +2853,7 @@
     "input_price_usd": 3.0,
     "output_price_usd": 4.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2576,7 +2862,7 @@
     "input_price_usd": 0.25,
     "output_price_usd": 0.75,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2585,7 +2871,7 @@
     "input_price_usd": 30.0,
     "output_price_usd": 60.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2594,16 +2880,7 @@
     "input_price_usd": 10.0,
     "output_price_usd": 30.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
-  },
-  {
-    "model": "gpt-4-turbo-preview",
-    "vendor": "openrouter",
-    "input_price_usd": 10.0,
-    "output_price_usd": 30.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2612,7 +2889,7 @@
     "input_price_usd": 5.0,
     "output_price_usd": 15.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2621,7 +2898,7 @@
     "input_price_usd": 0.2,
     "output_price_usd": 0.8,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.05
   },
@@ -2631,7 +2908,7 @@
     "input_price_usd": 0.05,
     "output_price_usd": 0.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0125
   },
@@ -2641,7 +2918,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 4.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25
   },
@@ -2651,7 +2928,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 1.25
   },
@@ -2661,7 +2938,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 1.25
   },
@@ -2671,7 +2948,7 @@
     "input_price_usd": 0.15,
     "output_price_usd": 0.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.075
   },
@@ -2681,7 +2958,7 @@
     "input_price_usd": 0.075,
     "output_price_usd": 0.3,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0375
   },
@@ -2691,19 +2968,9 @@
     "input_price_usd": 1.25,
     "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.625
-  },
-  {
-    "model": "gpt-5-codex:batch",
-    "vendor": "openrouter",
-    "input_price_usd": 0.625,
-    "output_price_usd": 5.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.0625
   },
   {
     "model": "gpt-5-image",
@@ -2711,7 +2978,7 @@
     "input_price_usd": 10.0,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 1.25
   },
@@ -2721,7 +2988,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 2.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25
   },
@@ -2731,7 +2998,7 @@
     "input_price_usd": 0.125,
     "output_price_usd": 1.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0125
   },
@@ -2741,7 +3008,7 @@
     "input_price_usd": 0.025,
     "output_price_usd": 0.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0025
   },
@@ -2751,7 +3018,7 @@
     "input_price_usd": 7.5,
     "output_price_usd": 60.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2760,7 +3027,7 @@
     "input_price_usd": 1.25,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.13
   },
@@ -2770,7 +3037,7 @@
     "input_price_usd": 1.25,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.125
   },
@@ -2780,7 +3047,7 @@
     "input_price_usd": 0.25,
     "output_price_usd": 2.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.03
   },
@@ -2790,7 +3057,7 @@
     "input_price_usd": 0.625,
     "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0625
   },
@@ -2800,7 +3067,7 @@
     "input_price_usd": 1.75,
     "output_price_usd": 14.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.175
   },
@@ -2810,7 +3077,7 @@
     "input_price_usd": 1.75,
     "output_price_usd": 14.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.175
   },
@@ -2820,7 +3087,7 @@
     "input_price_usd": 10.5,
     "output_price_usd": 84.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2829,7 +3096,7 @@
     "input_price_usd": 0.875,
     "output_price_usd": 7.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0875
   },
@@ -2839,7 +3106,7 @@
     "input_price_usd": 1.75,
     "output_price_usd": 14.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.175
   },
@@ -2849,7 +3116,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 15.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25
   },
@@ -2859,7 +3126,7 @@
     "input_price_usd": 8.0,
     "output_price_usd": 15.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 2.0
   },
@@ -2869,7 +3136,7 @@
     "input_price_usd": 0.75,
     "output_price_usd": 4.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.075
   },
@@ -2879,7 +3146,7 @@
     "input_price_usd": 0.375,
     "output_price_usd": 2.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0375
   },
@@ -2889,7 +3156,7 @@
     "input_price_usd": 0.2,
     "output_price_usd": 1.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.02
   },
@@ -2899,7 +3166,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.625,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.01
   },
@@ -2909,7 +3176,7 @@
     "input_price_usd": 30.0,
     "output_price_usd": 180.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2918,7 +3185,7 @@
     "input_price_usd": 15.0,
     "output_price_usd": 90.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2927,7 +3194,7 @@
     "input_price_usd": 1.25,
     "output_price_usd": 7.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.125
   },
@@ -2937,7 +3204,7 @@
     "input_price_usd": 5.0,
     "output_price_usd": 30.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5
   },
@@ -2947,7 +3214,7 @@
     "input_price_usd": 30.0,
     "output_price_usd": 180.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2956,7 +3223,7 @@
     "input_price_usd": 15.0,
     "output_price_usd": 90.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -2965,7 +3232,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 15.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25
   },
@@ -2975,7 +3242,7 @@
     "input_price_usd": 0.2,
     "output_price_usd": 1.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.02,
     "cache_write_price_usd": 0.25
@@ -2986,7 +3253,7 @@
     "input_price_usd": 0.2,
     "output_price_usd": 1.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.02,
     "cache_write_price_usd": 0.25
@@ -2997,7 +3264,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.01
   },
@@ -3007,51 +3274,53 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.01
   },
   {
     "model": "gpt-5.6-sol",
     "vendor": "openrouter",
-    "input_price_usd": 2.5,
-    "output_price_usd": 15.0,
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.25,
-    "cache_write_price_usd": 3.125
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 2.5
   },
   {
     "model": "gpt-5.6-sol-pro",
     "vendor": "openrouter",
-    "input_price_usd": 2.5,
-    "output_price_usd": 15.0,
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.25,
-    "cache_write_price_usd": 3.125
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 2.5
   },
   {
     "model": "gpt-5.6-sol-pro:batch",
     "vendor": "openrouter",
-    "input_price_usd": 1.25,
-    "output_price_usd": 7.5,
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.125
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 1.25
   },
   {
     "model": "gpt-5.6-sol:batch",
     "vendor": "openrouter",
-    "input_price_usd": 1.25,
-    "output_price_usd": 7.5,
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.125
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 1.25
   },
   {
     "model": "gpt-5.6-terra",
@@ -3059,7 +3328,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 12.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": 2.5
@@ -3070,7 +3339,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 12.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": 2.5
@@ -3081,7 +3350,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1
   },
@@ -3091,7 +3360,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1
   },
@@ -3101,9 +3370,174 @@
     "input_price_usd": 0.625,
     "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0625
+  },
+  {
+    "model": "gpt-6-astra",
+    "vendor": "openrouter",
+    "input_price_usd": 10.0,
+    "output_price_usd": 50.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 1.0,
+    "cache_write_price_usd": 12.5
+  },
+  {
+    "model": "gpt-6-astra-pro",
+    "vendor": "openrouter",
+    "input_price_usd": 10.0,
+    "output_price_usd": 50.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 1.0,
+    "cache_write_price_usd": 12.5
+  },
+  {
+    "model": "gpt-6-astra-pro:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 5.0,
+    "output_price_usd": 25.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": 6.25
+  },
+  {
+    "model": "gpt-6-astra:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 5.0,
+    "output_price_usd": 25.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.5,
+    "cache_write_price_usd": 6.25
+  },
+  {
+    "model": "gpt-6-luna",
+    "vendor": "openrouter",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.5,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.01,
+    "cache_write_price_usd": 0.125
+  },
+  {
+    "model": "gpt-6-luna-pro",
+    "vendor": "openrouter",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.5,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.01,
+    "cache_write_price_usd": 0.125
+  },
+  {
+    "model": "gpt-6-luna-pro:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.25,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.005,
+    "cache_write_price_usd": 0.0625
+  },
+  {
+    "model": "gpt-6-luna:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.25,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.005,
+    "cache_write_price_usd": 0.0625
+  },
+  {
+    "model": "gpt-6-sol",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 2.5
+  },
+  {
+    "model": "gpt-6-sol-pro",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 2.5
+  },
+  {
+    "model": "gpt-6-sol-pro:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 1.25
+  },
+  {
+    "model": "gpt-6-sol:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 1.0,
+    "output_price_usd": 5.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 1.25
+  },
+  {
+    "model": "gpt-6.1-sol",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 2.5
+  },
+  {
+    "model": "gpt-6.1-sol-pro",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 2.5
+  },
+  {
+    "model": "gpt-astra-latest",
+    "vendor": "openrouter",
+    "input_price_usd": 10.0,
+    "output_price_usd": 50.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 1.0,
+    "cache_write_price_usd": 12.5
   },
   {
     "model": "gpt-audio",
@@ -3111,7 +3545,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 10.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3120,7 +3554,7 @@
     "input_price_usd": 0.6,
     "output_price_usd": 2.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3129,20 +3563,20 @@
     "input_price_usd": 5.0,
     "output_price_usd": 30.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5
   },
   {
-    "model": "gpt-latest",
+    "model": "gpt-luna-latest",
     "vendor": "openrouter",
-    "input_price_usd": 2.5,
-    "output_price_usd": 15.0,
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.25,
-    "cache_write_price_usd": 3.125
+    "cache_read_price_usd": 0.01,
+    "cache_write_price_usd": 0.125
   },
   {
     "model": "gpt-mini-latest",
@@ -3150,37 +3584,45 @@
     "input_price_usd": 0.75,
     "output_price_usd": 4.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.075
   },
   {
     "model": "gpt-oss-120b",
     "vendor": "openrouter",
-    "input_price_usd": 0.03,
+    "input_price_usd": 0.037,
     "output_price_usd": 0.17,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.03
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "gpt-oss-120b:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.0296,
+    "output_price_usd": 0.136,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
   },
   {
     "model": "gpt-oss-20b",
     "vendor": "openrouter",
-    "input_price_usd": 0.03,
-    "output_price_usd": 0.13,
+    "input_price_usd": 0.018,
+    "output_price_usd": 0.09,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.03
+    "cache_read_price_usd": 0.009
   },
   {
-    "model": "gpt-oss-20b:free",
+    "model": "gpt-oss-20b:batch",
     "vendor": "openrouter",
-    "input_price_usd": 0.0,
-    "output_price_usd": 0.0,
+    "input_price_usd": 0.024,
+    "output_price_usd": 0.112,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3189,9 +3631,31 @@
     "input_price_usd": 0.075,
     "output_price_usd": 0.3,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0375
+  },
+  {
+    "model": "gpt-sol-latest",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 10.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.1,
+    "cache_write_price_usd": 2.5
+  },
+  {
+    "model": "gpt-terra-latest",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 12.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.2,
+    "cache_write_price_usd": 2.5
   },
   {
     "model": "granite-4.0-h-micro",
@@ -3199,18 +3663,18 @@
     "input_price_usd": 0.017,
     "output_price_usd": 0.112,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
-    "model": "granite-4.1-8b",
+    "model": "granite-4.2-8b",
     "vendor": "openrouter",
-    "input_price_usd": 0.05,
-    "output_price_usd": 0.1,
+    "input_price_usd": 0.06,
+    "output_price_usd": 0.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.05
+    "cache_read_price_usd": 0.015
   },
   {
     "model": "grok-4.20",
@@ -3218,7 +3682,7 @@
     "input_price_usd": 1.25,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2
   },
@@ -3228,7 +3692,7 @@
     "input_price_usd": 1.25,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2
   },
@@ -3238,9 +3702,19 @@
     "input_price_usd": 1.25,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2
+  },
+  {
+    "model": "grok-4.3:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 1.0,
+    "output_price_usd": 2.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.16
   },
   {
     "model": "grok-4.5",
@@ -3248,7 +3722,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.3
   },
@@ -3258,7 +3732,17 @@
     "input_price_usd": 2.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.5
+  },
+  {
+    "model": "grok-4.7",
+    "vendor": "openrouter",
+    "input_price_usd": 2.0,
+    "output_price_usd": 6.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5
   },
@@ -3268,7 +3752,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 2.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2
   },
@@ -3278,7 +3762,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.5
   },
@@ -3288,7 +3772,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 1.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3297,7 +3781,7 @@
     "input_price_usd": 0.7,
     "output_price_usd": 0.7,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3306,16 +3790,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 3.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
-  },
-  {
-    "model": "hermes-4-70b",
-    "vendor": "openrouter",
-    "input_price_usd": 0.13,
-    "output_price_usd": 0.4,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3324,7 +3799,34 @@
     "input_price_usd": 0.14,
     "output_price_usd": 0.57,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "hy-mt2-1.8b",
+    "vendor": "openrouter",
+    "input_price_usd": 0.044,
+    "output_price_usd": 0.177,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "hy-mt2-30b-a3b",
+    "vendor": "openrouter",
+    "input_price_usd": 0.074,
+    "output_price_usd": 0.295,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "hy-mt2-7b",
+    "vendor": "openrouter",
+    "input_price_usd": 0.074,
+    "output_price_usd": 0.295,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3333,7 +3835,7 @@
     "input_price_usd": 0.132,
     "output_price_usd": 0.528,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.033
   },
@@ -3343,9 +3845,19 @@
     "input_price_usd": 0.18,
     "output_price_usd": 0.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.06
+  },
+  {
+    "model": "hy4-preview",
+    "vendor": "openrouter",
+    "input_price_usd": 0.834,
+    "output_price_usd": 2.501,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.042
   },
   {
     "model": "inkling",
@@ -3353,7 +3865,7 @@
     "input_price_usd": 0.95,
     "output_price_usd": 4.05,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.16
   },
@@ -3363,48 +3875,27 @@
     "input_price_usd": 0.45,
     "output_price_usd": 1.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1
   },
   {
-    "model": "inkling:batch",
+    "model": "inkling-small:free",
     "vendor": "openrouter",
-    "input_price_usd": 0.5,
-    "output_price_usd": 2.025,
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.085
-  },
-  {
-    "model": "jamba-large-1.7",
-    "vendor": "openrouter",
-    "input_price_usd": 2.0,
-    "output_price_usd": 8.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
-    "model": "kat-coder-air-v2.5",
+    "model": "inkling:free",
     "vendor": "openrouter",
-    "input_price_usd": 0.15,
-    "output_price_usd": 0.6,
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.03
-  },
-  {
-    "model": "kat-coder-pro-v2",
-    "vendor": "openrouter",
-    "input_price_usd": 0.3,
-    "output_price_usd": 1.2,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.06
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
   },
   {
     "model": "kat-coder-pro-v2.5",
@@ -3412,7 +3903,7 @@
     "input_price_usd": 0.74,
     "output_price_usd": 2.96,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.15
   },
@@ -3422,7 +3913,7 @@
     "input_price_usd": 0.57,
     "output_price_usd": 2.3,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3431,7 +3922,7 @@
     "input_price_usd": 0.6,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3440,29 +3931,28 @@
     "input_price_usd": 0.6,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.15
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
   },
   {
-    "model": "kimi-k2.7-code:batch",
+    "model": "kimi-k3:batch",
     "vendor": "openrouter",
-    "input_price_usd": 0.475,
-    "output_price_usd": 2.0,
+    "input_price_usd": 2.28,
+    "output_price_usd": 11.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.095
+    "cache_read_price_usd": 0.228
   },
   {
     "model": "kimi-latest",
     "vendor": "openrouter",
-    "input_price_usd": 2.6,
+    "input_price_usd": 0.66,
     "output_price_usd": 13.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.29
+    "cache_read_price_usd": 0.45
   },
   {
     "model": "l3-lunaris-8b",
@@ -3470,7 +3960,7 @@
     "input_price_usd": 0.04,
     "output_price_usd": 0.05,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3479,7 +3969,7 @@
     "input_price_usd": 0.85,
     "output_price_usd": 0.85,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3488,7 +3978,7 @@
     "input_price_usd": 0.65,
     "output_price_usd": 0.75,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3497,7 +3987,7 @@
     "input_price_usd": 0.09,
     "output_price_usd": 0.18,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.009
   },
@@ -3507,7 +3997,7 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3516,7 +4006,7 @@
     "input_price_usd": 0.06,
     "output_price_usd": 0.12,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.03
   },
@@ -3526,28 +4016,17 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
-    "model": "ling-2.6-1t",
+    "model": "lfm-2.5-2.6b:free",
     "vendor": "openrouter",
-    "input_price_usd": 0.075,
-    "output_price_usd": 0.625,
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.015
-  },
-  {
-    "model": "ling-2.6-flash",
-    "vendor": "openrouter",
-    "input_price_usd": 0.01,
-    "output_price_usd": 0.03,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.002
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
   },
   {
     "model": "ling-3.0-flash",
@@ -3555,9 +4034,47 @@
     "input_price_usd": 0.021,
     "output_price_usd": 0.063,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0042
+  },
+  {
+    "model": "ling-3.0-flash-fin",
+    "vendor": "openrouter",
+    "input_price_usd": 0.042,
+    "output_price_usd": 0.1232,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.0084
+  },
+  {
+    "model": "ling-3.0-flash-sante:free",
+    "vendor": "openrouter",
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "ling-3.0-flash-vl",
+    "vendor": "openrouter",
+    "input_price_usd": 0.021,
+    "output_price_usd": 0.0616,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.0042
+  },
+  {
+    "model": "ling-3.1-flash",
+    "vendor": "openrouter",
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
   },
   {
     "model": "llama-3.1-70b-instruct",
@@ -3565,7 +4082,7 @@
     "input_price_usd": 0.4,
     "output_price_usd": 0.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3574,7 +4091,7 @@
     "input_price_usd": 0.05,
     "output_price_usd": 0.08,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.025
   },
@@ -3584,7 +4101,7 @@
     "input_price_usd": 0.027,
     "output_price_usd": 0.201,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3593,7 +4110,7 @@
     "input_price_usd": 0.05,
     "output_price_usd": 0.33,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3602,16 +4119,16 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.32,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "llama-4-maverick",
     "vendor": "openrouter",
-    "input_price_usd": 0.2,
-    "output_price_usd": 0.8,
+    "input_price_usd": 0.1875,
+    "output_price_usd": 0.6525,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3620,7 +4137,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.3,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3629,7 +4146,7 @@
     "input_price_usd": 0.18,
     "output_price_usd": 0.18,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3638,7 +4155,7 @@
     "input_price_usd": 0.3,
     "output_price_usd": 1.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.006
   },
@@ -3648,7 +4165,7 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3657,16 +4174,16 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "magnum-v4-72b",
     "vendor": "openrouter",
-    "input_price_usd": 3.0,
+    "input_price_usd": 2.5,
     "output_price_usd": 5.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3675,9 +4192,19 @@
     "input_price_usd": 0.25,
     "output_price_usd": 0.75,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.025
+  },
+  {
+    "model": "mercury-2.5",
+    "vendor": "openrouter",
+    "input_price_usd": 0.04,
+    "output_price_usd": 0.15,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.004
   },
   {
     "model": "mimo-v2.5",
@@ -3685,7 +4212,7 @@
     "input_price_usd": 0.14,
     "output_price_usd": 0.28,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0028
   },
@@ -3695,9 +4222,39 @@
     "input_price_usd": 0.435,
     "output_price_usd": 0.87,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0036
+  },
+  {
+    "model": "mimo-v2.6-flash",
+    "vendor": "openrouter",
+    "input_price_usd": 0.14,
+    "output_price_usd": 0.28,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.0028
+  },
+  {
+    "model": "mimo-v2.6-pro",
+    "vendor": "openrouter",
+    "input_price_usd": 0.435,
+    "output_price_usd": 0.87,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.0036
+  },
+  {
+    "model": "mimo-v2.6-pro-ultraspeed",
+    "vendor": "openrouter",
+    "input_price_usd": 4.35,
+    "output_price_usd": 8.7,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.036
   },
   {
     "model": "minimax-01",
@@ -3705,7 +4262,7 @@
     "input_price_usd": 0.2,
     "output_price_usd": 1.1,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3714,7 +4271,7 @@
     "input_price_usd": 0.55,
     "output_price_usd": 2.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3723,17 +4280,7 @@
     "input_price_usd": 0.3,
     "output_price_usd": 1.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.03
-  },
-  {
-    "model": "minimax-m3:batch",
-    "vendor": "openrouter",
-    "input_price_usd": 0.15,
-    "output_price_usd": 0.6,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.03
   },
@@ -3743,7 +4290,7 @@
     "input_price_usd": 0.2,
     "output_price_usd": 0.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.02
   },
@@ -3753,7 +4300,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.1,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.01
   },
@@ -3763,9 +4310,19 @@
     "input_price_usd": 0.15,
     "output_price_usd": 0.15,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.015
+  },
+  {
+    "model": "ministral-8b-2512:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.075,
+    "output_price_usd": 0.075,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.0075
   },
   {
     "model": "mistral-large",
@@ -3773,7 +4330,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2
   },
@@ -3783,7 +4340,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2
   },
@@ -3793,9 +4350,19 @@
     "input_price_usd": 0.5,
     "output_price_usd": 1.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.05
+  },
+  {
+    "model": "mistral-large-2512:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.25,
+    "output_price_usd": 0.75,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.025
   },
   {
     "model": "mistral-medium-3",
@@ -3803,7 +4370,7 @@
     "input_price_usd": 0.4,
     "output_price_usd": 2.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.04
   },
@@ -3813,7 +4380,16 @@
     "input_price_usd": 1.5,
     "output_price_usd": 7.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "mistral-medium-3-5:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.75,
+    "output_price_usd": 3.75,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3822,9 +4398,19 @@
     "input_price_usd": 0.4,
     "output_price_usd": 2.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.04
+  },
+  {
+    "model": "mistral-medium-3.1:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.2,
+    "output_price_usd": 1.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.02
   },
   {
     "model": "mistral-nemo",
@@ -3832,7 +4418,7 @@
     "input_price_usd": 0.019,
     "output_price_usd": 0.03,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3841,7 +4427,7 @@
     "input_price_usd": 0.2,
     "output_price_usd": 0.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.02
   },
@@ -3851,7 +4437,7 @@
     "input_price_usd": 0.05,
     "output_price_usd": 0.08,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3860,9 +4446,19 @@
     "input_price_usd": 0.15,
     "output_price_usd": 0.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.015
+  },
+  {
+    "model": "mistral-small-2603:batch",
+    "vendor": "openrouter",
+    "input_price_usd": 0.075,
+    "output_price_usd": 0.3,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.0075
   },
   {
     "model": "mistral-small-3.1-24b-instruct",
@@ -3870,7 +4466,7 @@
     "input_price_usd": 0.351,
     "output_price_usd": 0.555,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3879,7 +4475,7 @@
     "input_price_usd": 0.09375,
     "output_price_usd": 0.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3888,7 +4484,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.2
   },
@@ -3898,7 +4494,7 @@
     "input_price_usd": 0.8,
     "output_price_usd": 1.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3907,7 +4503,7 @@
     "input_price_usd": 0.9,
     "output_price_usd": 1.9,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3916,7 +4512,7 @@
     "input_price_usd": 0.35,
     "output_price_usd": 1.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.04
   },
@@ -3926,7 +4522,7 @@
     "input_price_usd": 1.25,
     "output_price_usd": 4.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.15
   },
@@ -3936,17 +4532,47 @@
     "input_price_usd": 1.25,
     "output_price_usd": 4.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.15
   },
   {
+    "model": "muse-spark-1.2-contributor",
+    "vendor": "openrouter",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.2,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.002
+  },
+  {
+    "model": "muse-spark-1.3",
+    "vendor": "openrouter",
+    "input_price_usd": 1.25,
+    "output_price_usd": 4.25,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.15
+  },
+  {
+    "model": "muse-spark-1.3-contributor",
+    "vendor": "openrouter",
+    "input_price_usd": 0.1,
+    "output_price_usd": 0.2,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.002
+  },
+  {
     "model": "mythomax-l2-13b",
     "vendor": "openrouter",
-    "input_price_usd": 0.06,
-    "output_price_usd": 0.06,
+    "input_price_usd": 0.08,
+    "output_price_usd": 0.11,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3955,18 +4581,9 @@
     "input_price_usd": 0.05,
     "output_price_usd": 0.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.03
-  },
-  {
-    "model": "nemotron-3-nano-30b-a3b:free",
-    "vendor": "openrouter",
-    "input_price_usd": 0.0,
-    "output_price_usd": 0.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
   },
   {
     "model": "nemotron-3-nano-omni-30b-a3b-reasoning:free",
@@ -3974,16 +4591,16 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "nemotron-3-super-120b-a12b",
     "vendor": "openrouter",
-    "input_price_usd": 0.085,
-    "output_price_usd": 0.4,
+    "input_price_usd": 0.08,
+    "output_price_usd": 0.45,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -3992,26 +4609,16 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "nemotron-3-ultra-550b-a55b",
     "vendor": "openrouter",
-    "input_price_usd": 0.6,
-    "output_price_usd": 3.6,
+    "input_price_usd": 0.5,
+    "output_price_usd": 2.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.2
-  },
-  {
-    "model": "nemotron-3-ultra-550b-a55b:batch",
-    "vendor": "openrouter",
-    "input_price_usd": 0.3,
-    "output_price_usd": 1.8,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1
   },
@@ -4021,7 +4628,16 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "nemotron-3.5-content-safety",
+    "vendor": "openrouter",
+    "input_price_usd": 0.2,
+    "output_price_usd": 0.2,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4030,18 +4646,18 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "nemotron-3.5-lightning",
     "vendor": "openrouter",
-    "input_price_usd": 0.08,
-    "output_price_usd": 0.2,
+    "input_price_usd": 0.06,
+    "output_price_usd": 0.16,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.04
+    "cache_read_price_usd": 0.03
   },
   {
     "model": "nemotron-3.5-lightning:free",
@@ -4049,46 +4665,28 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
-    "model": "nemotron-nano-12b-v2-vl:free",
-    "vendor": "openrouter",
-    "input_price_usd": 0.0,
-    "output_price_usd": 0.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
-  },
-  {
-    "model": "nemotron-nano-9b-v2:free",
-    "vendor": "openrouter",
-    "input_price_usd": 0.0,
-    "output_price_usd": 0.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
-  },
-  {
-    "model": "nex-n2-mini",
+    "model": "nex-n2.5-mini",
     "vendor": "openrouter",
     "input_price_usd": 0.025,
     "output_price_usd": 0.1,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.0025
   },
   {
-    "model": "nex-n2-pro",
+    "model": "nex-n2.5-pro",
     "vendor": "openrouter",
-    "input_price_usd": 0.25,
-    "output_price_usd": 1.0,
+    "input_price_usd": 0.075,
+    "output_price_usd": 0.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.025
+    "cache_read_price_usd": 0.015
   },
   {
     "model": "north-mini-code:free",
@@ -4096,7 +4694,7 @@
     "input_price_usd": 0.0,
     "output_price_usd": 0.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4105,7 +4703,7 @@
     "input_price_usd": 0.3,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4114,7 +4712,7 @@
     "input_price_usd": 0.06,
     "output_price_usd": 0.24,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4123,7 +4721,7 @@
     "input_price_usd": 0.035,
     "output_price_usd": 0.14,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4132,7 +4730,7 @@
     "input_price_usd": 2.5,
     "output_price_usd": 12.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.625
   },
@@ -4142,27 +4740,8 @@
     "input_price_usd": 0.8,
     "output_price_usd": 3.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
-  },
-  {
-    "model": "o1-pro:batch",
-    "vendor": "openrouter",
-    "input_price_usd": 75.0,
-    "output_price_usd": 300.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
-  },
-  {
-    "model": "o1:batch",
-    "vendor": "openrouter",
-    "input_price_usd": 7.5,
-    "output_price_usd": 30.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 3.75
   },
   {
     "model": "o3-mini-high",
@@ -4170,19 +4749,9 @@
     "input_price_usd": 1.1,
     "output_price_usd": 4.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.55
-  },
-  {
-    "model": "o3-mini-high:batch",
-    "vendor": "openrouter",
-    "input_price_usd": 0.55,
-    "output_price_usd": 2.2,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.275
   },
   {
     "model": "o3-mini:batch",
@@ -4190,18 +4759,9 @@
     "input_price_usd": 0.55,
     "output_price_usd": 2.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.275
-  },
-  {
-    "model": "o3-pro:batch",
-    "vendor": "openrouter",
-    "input_price_usd": 10.0,
-    "output_price_usd": 40.0,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
   },
   {
     "model": "o3:batch",
@@ -4209,7 +4769,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 4.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25
   },
@@ -4219,19 +4779,9 @@
     "input_price_usd": 1.1,
     "output_price_usd": 4.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.275
-  },
-  {
-    "model": "o4-mini-high:batch",
-    "vendor": "openrouter",
-    "input_price_usd": 0.55,
-    "output_price_usd": 2.2,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.1375
   },
   {
     "model": "o4-mini:batch",
@@ -4239,18 +4789,9 @@
     "input_price_usd": 0.55,
     "output_price_usd": 2.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1375
-  },
-  {
-    "model": "olmo-3-32b-think",
-    "vendor": "openrouter",
-    "input_price_usd": 0.15,
-    "output_price_usd": 0.5,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
   },
   {
     "model": "palmyra-x5",
@@ -4258,8 +4799,28 @@
     "input_price_usd": 0.6,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
+  },
+  {
+    "model": "pareto",
+    "vendor": "openrouter",
+    "input_price_usd": 2.5,
+    "output_price_usd": 7.5,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.25
+  },
+  {
+    "model": "pareto-26.10-preview",
+    "vendor": "openrouter",
+    "input_price_usd": 0.8,
+    "output_price_usd": 3.2,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.03
   },
   {
     "model": "perceptron-mk1",
@@ -4267,7 +4828,16 @@
     "input_price_usd": 0.15,
     "output_price_usd": 1.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "perceptron-mk1.5",
+    "vendor": "openrouter",
+    "input_price_usd": 0.15,
+    "output_price_usd": 1.5,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4276,7 +4846,7 @@
     "input_price_usd": 0.07,
     "output_price_usd": 0.14,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4285,7 +4855,7 @@
     "input_price_usd": 0.36,
     "output_price_usd": 0.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4294,7 +4864,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4303,16 +4873,7 @@
     "input_price_usd": 0.66,
     "output_price_usd": 1.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
-  },
-  {
-    "model": "qwen-plus-2025-07-28:thinking",
-    "vendor": "openrouter",
-    "input_price_usd": 0.26,
-    "output_price_usd": 0.78,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4321,18 +4882,19 @@
     "input_price_usd": 0.8,
     "output_price_usd": 1.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.4
   },
   {
     "model": "qwen3-235b-a22b-2507",
     "vendor": "openrouter",
-    "input_price_usd": 0.09,
-    "output_price_usd": 0.55,
+    "input_price_usd": 0.0875,
+    "output_price_usd": 0.35,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.0175
   },
   {
     "model": "qwen3-235b-a22b-thinking-2507",
@@ -4340,7 +4902,7 @@
     "input_price_usd": 0.23,
     "output_price_usd": 2.3,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4349,7 +4911,7 @@
     "input_price_usd": 0.2,
     "output_price_usd": 2.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4358,7 +4920,7 @@
     "input_price_usd": 0.3,
     "output_price_usd": 1.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1
   },
@@ -4368,7 +4930,7 @@
     "input_price_usd": 0.78,
     "output_price_usd": 3.9,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4377,7 +4939,7 @@
     "input_price_usd": 0.15,
     "output_price_usd": 1.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4386,7 +4948,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.15,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4395,7 +4957,7 @@
     "input_price_usd": 0.065,
     "output_price_usd": 0.26,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4404,7 +4966,7 @@
     "input_price_usd": 0.26,
     "output_price_usd": 1.56,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4413,7 +4975,7 @@
     "input_price_usd": 0.3,
     "output_price_usd": 1.8,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_write_price_usd": 0.375
   },
@@ -4423,7 +4985,7 @@
     "input_price_usd": 0.03,
     "output_price_usd": 0.13,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.006,
     "cache_write_price_usd": 0.038
@@ -4434,30 +4996,71 @@
     "input_price_usd": 2.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25
   },
   {
     "model": "qwen3.8-27b",
     "vendor": "openrouter",
-    "input_price_usd": 0.45,
-    "output_price_usd": 3.2,
+    "input_price_usd": 0.425,
+    "output_price_usd": 2.55,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.05
+    "cache_read_price_usd": 0.085,
+    "cache_write_price_usd": 0.53125
   },
   {
-    "model": "qwen3.8-max",
+    "model": "qwen3.8-27b:free",
+    "vendor": "openrouter",
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "qwen3.8-flash",
+    "vendor": "openrouter",
+    "input_price_usd": 0.15,
+    "output_price_usd": 0.47,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.016,
+    "cache_write_price_usd": 0.2
+  },
+  {
+    "model": "qwen3.8-max-0902",
     "vendor": "openrouter",
     "input_price_usd": 2.0,
     "output_price_usd": 6.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25,
     "cache_write_price_usd": 2.5
+  },
+  {
+    "model": "qwen3.8-max-prime",
+    "vendor": "openrouter",
+    "input_price_usd": 4.0,
+    "output_price_usd": 12.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.5
+  },
+  {
+    "model": "qwen3.8-omni-flash",
+    "vendor": "openrouter",
+    "input_price_usd": 0.15,
+    "output_price_usd": 0.47,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.016
   },
   {
     "model": "reka-edge",
@@ -4465,7 +5068,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.1,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4474,7 +5077,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4483,7 +5086,7 @@
     "input_price_usd": 0.85,
     "output_price_usd": 1.25,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4492,35 +5095,16 @@
     "input_price_usd": 1.0,
     "output_price_usd": 3.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
     "model": "remm-slerp-l2-13b",
     "vendor": "openrouter",
-    "input_price_usd": 0.45,
+    "input_price_usd": 0.35,
     "output_price_usd": 0.65,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
-  },
-  {
-    "model": "ring-2.6-1t",
-    "vendor": "openrouter",
-    "input_price_usd": 0.075,
-    "output_price_usd": 0.625,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator",
-    "cache_read_price_usd": 0.015
-  },
-  {
-    "model": "rocinante-12b",
-    "vendor": "openrouter",
-    "input_price_usd": 0.25,
-    "output_price_usd": 0.5,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4529,9 +5113,29 @@
     "input_price_usd": 0.95,
     "output_price_usd": 4.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.15
+  },
+  {
+    "model": "schematron-v2-small",
+    "vendor": "openrouter",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.23,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.05
+  },
+  {
+    "model": "schematron-v2-turbo",
+    "vendor": "openrouter",
+    "input_price_usd": 0.03,
+    "output_price_usd": 0.15,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.03
   },
   {
     "model": "seed-1.6",
@@ -4539,7 +5143,7 @@
     "input_price_usd": 0.25,
     "output_price_usd": 2.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4548,7 +5152,7 @@
     "input_price_usd": 0.075,
     "output_price_usd": 0.3,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4557,7 +5161,7 @@
     "input_price_usd": 0.5,
     "output_price_usd": 2.5,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4566,7 +5170,7 @@
     "input_price_usd": 0.5,
     "output_price_usd": 3.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4575,7 +5179,7 @@
     "input_price_usd": 0.25,
     "output_price_usd": 2.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4584,7 +5188,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4593,9 +5197,19 @@
     "input_price_usd": 0.55,
     "output_price_usd": 0.8,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.25
+  },
+  {
+    "model": "solar-mini4",
+    "vendor": "openrouter",
+    "input_price_usd": 0.05,
+    "output_price_usd": 0.2,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.005
   },
   {
     "model": "solar-pro-3",
@@ -4603,19 +5217,19 @@
     "input_price_usd": 0.15,
     "output_price_usd": 0.6,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.015
   },
   {
     "model": "solar-pro4",
     "vendor": "openrouter",
-    "input_price_usd": 0.03,
-    "output_price_usd": 0.12,
+    "input_price_usd": 0.09,
+    "output_price_usd": 0.36,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
-    "cache_read_price_usd": 0.006
+    "cache_read_price_usd": 0.018
   },
   {
     "model": "sonar",
@@ -4623,7 +5237,7 @@
     "input_price_usd": 1.0,
     "output_price_usd": 1.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4632,7 +5246,7 @@
     "input_price_usd": 2.0,
     "output_price_usd": 8.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4641,7 +5255,7 @@
     "input_price_usd": 3.0,
     "output_price_usd": 15.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4650,7 +5264,7 @@
     "input_price_usd": 3.0,
     "output_price_usd": 15.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4659,7 +5273,16 @@
     "input_price_usd": 2.0,
     "output_price_usd": 8.0,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator"
+  },
+  {
+    "model": "space-bunny-alpha",
+    "vendor": "openrouter",
+    "input_price_usd": 0.0,
+    "output_price_usd": 0.0,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4668,7 +5291,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.3,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4677,17 +5300,27 @@
     "input_price_usd": 0.2,
     "output_price_usd": 1.15,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.04
   },
   {
+    "model": "ternary-bonsai-2-27b",
+    "vendor": "openrouter",
+    "input_price_usd": 0.075,
+    "output_price_usd": 0.5,
+    "source_url": "https://openrouter.ai/models",
+    "last_verified": "2026-10-05",
+    "source_kind": "aggregator",
+    "cache_read_price_usd": 0.0375
+  },
+  {
     "model": "trinity-large-thinking",
     "vendor": "openrouter",
-    "input_price_usd": 0.22,
-    "output_price_usd": 0.85,
+    "input_price_usd": 0.25,
+    "output_price_usd": 0.8,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.06
   },
@@ -4697,7 +5330,7 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.2,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.1
   },
@@ -4707,16 +5340,7 @@
     "input_price_usd": 0.4,
     "output_price_usd": 0.4,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
-    "source_kind": "aggregator"
-  },
-  {
-    "model": "virtuoso-large",
-    "vendor": "openrouter",
-    "input_price_usd": 0.75,
-    "output_price_usd": 1.2,
-    "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4725,17 +5349,17 @@
     "input_price_usd": 0.1,
     "output_price_usd": 0.3,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator",
     "cache_read_price_usd": 0.01
   },
   {
     "model": "weaver",
     "vendor": "openrouter",
-    "input_price_usd": 0.5,
+    "input_price_usd": 0.4,
     "output_price_usd": 0.75,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4744,7 +5368,7 @@
     "input_price_usd": 0.62,
     "output_price_usd": 0.62,
     "source_url": "https://openrouter.ai/models",
-    "last_verified": "2026-08-18",
+    "last_verified": "2026-10-05",
     "source_kind": "aggregator"
   },
   {
@@ -4755,7 +5379,7 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.5",
@@ -4765,7 +5389,7 @@
     "cache_read_price_usd": 0.11,
     "cache_write_price_usd": 0.6,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.5-air",
@@ -4775,7 +5399,7 @@
     "cache_read_price_usd": 0.03,
     "cache_write_price_usd": 0.2,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.5-airx",
@@ -4785,7 +5409,7 @@
     "cache_read_price_usd": 0.22,
     "cache_write_price_usd": 1.1,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.5-flash",
@@ -4795,7 +5419,7 @@
     "cache_read_price_usd": 0.0,
     "cache_write_price_usd": 0.0,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.5-x",
@@ -4805,7 +5429,7 @@
     "cache_read_price_usd": 0.45,
     "cache_write_price_usd": 2.2,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.5v",
@@ -4815,7 +5439,7 @@
     "cache_read_price_usd": 0.11,
     "cache_write_price_usd": 0.6,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.6",
@@ -4825,7 +5449,7 @@
     "cache_read_price_usd": 0.11,
     "cache_write_price_usd": 0.6,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.6v",
@@ -4835,7 +5459,7 @@
     "cache_read_price_usd": 0.05,
     "cache_write_price_usd": 0.3,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.6v-flash",
@@ -4845,7 +5469,7 @@
     "cache_read_price_usd": 0.0,
     "cache_write_price_usd": 0.0,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.6v-flashx",
@@ -4855,7 +5479,7 @@
     "cache_read_price_usd": 0.004,
     "cache_write_price_usd": 0.04,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.7",
@@ -4865,7 +5489,7 @@
     "cache_read_price_usd": 0.11,
     "cache_write_price_usd": 0.6,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.7-flash",
@@ -4875,7 +5499,7 @@
     "cache_read_price_usd": 0.0,
     "cache_write_price_usd": 0.0,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-4.7-flashx",
@@ -4885,7 +5509,7 @@
     "cache_read_price_usd": 0.01,
     "cache_write_price_usd": 0.07,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-5",
@@ -4895,17 +5519,7 @@
     "cache_read_price_usd": 0.2,
     "cache_write_price_usd": 1.0,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
-  },
-  {
-    "model": "glm-5-turbo",
-    "vendor": "z.ai",
-    "input_price_usd": 1.2,
-    "output_price_usd": 4.0,
-    "cache_read_price_usd": 0.24,
-    "cache_write_price_usd": 1.2,
-    "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-5.1",
@@ -4915,7 +5529,7 @@
     "cache_read_price_usd": 0.26,
     "cache_write_price_usd": 1.4,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-5.2",
@@ -4925,17 +5539,37 @@
     "cache_read_price_usd": 0.26,
     "cache_write_price_usd": 1.4,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   },
   {
-    "model": "glm-5v-turbo",
+    "model": "glm-5.3",
     "vendor": "z.ai",
-    "input_price_usd": 1.2,
-    "output_price_usd": 4.0,
-    "cache_read_price_usd": 0.24,
-    "cache_write_price_usd": 1.2,
+    "input_price_usd": 1.4,
+    "output_price_usd": 4.4,
+    "cache_read_price_usd": 0.26,
+    "cache_write_price_usd": 1.4,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "glm-5.3-flash",
+    "vendor": "z.ai",
+    "input_price_usd": 0.15,
+    "output_price_usd": 0.5,
+    "cache_read_price_usd": 0.03,
+    "cache_write_price_usd": 0.15,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-10-05"
+  },
+  {
+    "model": "glm-5.3-flashx",
+    "vendor": "z.ai",
+    "input_price_usd": 0.37,
+    "output_price_usd": 1.25,
+    "cache_read_price_usd": 0.075,
+    "cache_write_price_usd": 0.37,
+    "source_url": "https://docs.z.ai/guides/overview/pricing",
+    "last_verified": "2026-10-05"
   },
   {
     "model": "glm-ocr",
@@ -4945,6 +5579,6 @@
     "cache_read_price_usd": null,
     "cache_write_price_usd": null,
     "source_url": "https://docs.z.ai/guides/overview/pricing",
-    "last_verified": "2026-08-18"
+    "last_verified": "2026-10-05"
   }
 ]
